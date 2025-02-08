@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Interface</title>
+    <link rel="stylesheet" href="/static/css/style2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="logo">INNOVIC SPARK</div>
+            <div class="nav-items">
+                <a href="/" class="nav-item">Home</a>
+                <a href="/" class="nav-item">Feedback</a>
+                <a href="/chat" class="nav-item">Clear History</a>
+            </div>
+            <div class="chatbot-profile">
+                <img src="/static/img/logo.jpg" alt="Chatbot Profile">
+            </div>
+        </div>
+        <div class="chat-container">
+            <div class="chat-header">
+                <h2>Chatbot</h2>
+            </div>
+            <div class="chat-history">
+                <!-- Chat messages will go here -->
+            </div>
+            <div class="chat-input">
+                <input type="text" placeholder="Ask me anything..." id="chat-input-field" name="user-input">
+                <button id="send-btn"><i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ensure the script is included after the elements are loaded -->
+    <script src="/static/js/script3.js"></script>
+</body>
+</html>

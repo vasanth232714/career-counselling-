@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: white; /* Matching background color */
+    color: #333;
+    scroll-behavior: smooth;
+}
+
+
+.header {
+    background-color: #f7f2ed; /* Matching background color */
+    padding: 20px;
+    text-align: center;
+    position: scroll;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    width: 50px;
+    margin-right: 10px;
+}
+
+.logo-text {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+}
+
+.nav-links ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.nav-links ul li {
+    margin-right: 20px;
+}
+
+.nav-links ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #333;
+}
+
+#projects{
+    margin: 15px;
+    padding: 30px 0;
+}
+
+.title2{
+    font-size: 50px;
+    color: #333;
+    font-weight: 600;
+    text-align: center;
+}
+
+.project-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+
+.project-list div{
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.614);
+    padding: 40px;
+    font-size: 13px;
+    font-weight: 300;
+    border-radius: 10px;
+    background: #eeeded;
+    transition: background 0.5s , transform 0.5s;
+}
+
+.project-list div i{
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: rgb(24 49 83);
+}
+
+.project-list div a i{
+    font-size: 13px;
+}
+
+.project-list div h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 40px;
+}
+
+.project-list div p{
+    margin-bottom: 20px;
+    font-size: 17px;
+    line-height: 18px;
+}
+
+.learn-more{
+    display: inline-block;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 12px 20px;
+    background: rgb(24 49 83);
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.project-list div a{
+    margin-top: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.project-list div:hover{
+    border: 2px solid rgb(24 49 83);
+    transform: translateY(-10px);
+}
+
+.highlight{
+    color: rgb(4, 159, 216);
+}

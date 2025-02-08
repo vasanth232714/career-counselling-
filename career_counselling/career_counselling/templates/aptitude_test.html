@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/static/img/WhatsApp Image 2024-08-29 at 23.49.58_c462f2db.jpg" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style4.css">
+    <title>Career Guidance</title>
+    <script src="/static/js/script4.js"></script>
+</head>
+<body>
+    <div class="main">
+        <header class="header">
+            <nav class="navbar">
+                <div class="logo-container">
+                    <img src="/static/img/logo.jpg" alt="Innovic Spark Logo" class="logo-img">
+                    <span class="logo-text">Innovic Spark</span>
+                </div>
+                <div class="nav-links" id="navLinks">
+                    <i class="fa fa-times" onclick="hideMenu()"></i>
+                    <ul>
+                        <li><a href="/">HOME</a></li>
+                        <li><a href="/chat">CHATBOT</a></li>
+                        <li><a href="/">ABOUT</a></li>
+                        <li><a href="/">COURSES</a></li>
+                        <li><a href="/">CONTACT</a></li>
+                    </ul>
+                </div>
+                <i class="fa fa-bars" onclick="showMenu()"></i>
+            </nav>
+        </header>   
+
+        <div class="container">
+            <h1>Assessment</h1>
+            <form method="POST" action="/aptitute">
+                <label class="Label" for="name">Name:</label>
+                <input class="group" type="text" id="name" name="name" required><br><br>
+                <label class="Label" for="group">Group:</label>
+                <select class="group" id="group" name="group" required>
+                    <option value="CS">CS</option>
+                    <option value="Pure Science">Pure Science</option>
+                    <option value="Bio Maths">Bio Maths</option>
+                    <option value="Accounts">Accounts</option>
+                </select><br><br>
+                <div id="questions-container">
+                    <!-- Questions will be loaded here dynamically -->
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

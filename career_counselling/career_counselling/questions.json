@@ -1,0 +1,3422 @@
+[
+    {
+        "_id": "66d053be68b1c87862f5aec2",
+        "question": "who are you, what are you,  your name you",
+        "answer": "I'm course recommodation chatbot. My purpose is to assist like you with answer to questions, provide information, generate text based on prompts, and engage in conversation on university course recommendation topics. If you have any questions or need assistance regarding course recommendation, feel free to ask!"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec3",
+        "question": "What is a Bachelor of Science in Mechanical Engineering?",
+        "answer": "A Bachelor of Science in Mechanical Engineering is an undergraduate degree program that focuses on the design, analysis, and manufacturing of mechanical systems and processes."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec4",
+        "question": "What courses are included in the Mechanical Engineering?",
+        "answer": "Courses in the Mechanical Engineering may include Thermodynamics, Fluid Mechanics, Solid Mechanics, Dynamics, Materials Science, Machine Design, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec5",
+        "question": "What career opportunities are available for Mechanical Engineering graduates?",
+        "answer": "Mechanical Engineering graduates can pursue careers as mechanical engineers, aerospace engineers, automotive engineers, manufacturing engineers, product designers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec6",
+        "question": "What is a Bachelor of Fine Arts in Graphic Design?",
+        "answer": "A Bachelor of Fine Arts in Graphic Design is an undergraduate degree program that focuses on the creative and technical aspects of visual communication, typography, and digital media."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec7",
+        "question": "What courses are included in the Graphic Design?",
+        "answer": "Courses in the Graphic Design may include Typography, Branding and Identity Design, Digital Illustration, Web Design, Motion Graphics, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec8",
+        "question": "What career opportunities are available for Graphic Design graduates?",
+        "answer": "Graphic Design graduates can pursue careers as graphic designers, art directors, web designers, UX/UI designers, illustrators, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec9",
+        "question": "What is a Bachelor of Science in Nursing?",
+        "answer": "A Bachelor of Science in Nursing is an undergraduate degree program that prepares students for careers in nursing by providing education in healthcare, anatomy, physiology, and patient care."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeca",
+        "question": "What courses are included in the Nursing?",
+        "answer": "Courses in the Nursing may include Anatomy and Physiology, Pharmacology, Medical-Surgical Nursing, Maternal-Child Health Nursing, Psychiatric Nursing, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aecb",
+        "question": "What career opportunities are available for Nursing graduates?",
+        "answer": "Nursing graduates can pursue careers as registered nurses (RNs), nurse practitioners, nurse educators, nurse administrators, public health nurses, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aecc",
+        "question": "What is a Bachelor of Arts in History?",
+        "answer": "A Bachelor of Arts in History is an undergraduate degree program that explores the study of past events, cultures, societies, and historical interpretations."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aecd",
+        "question": "What courses are included in the History?",
+        "answer": "Courses in the History may include World History, European History, American History, Ancient History, Medieval History, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aece",
+        "question": "What career opportunities are available for History graduates?",
+        "answer": "History graduates can pursue careers as historians, archivists, museum curators, teachers, journalists, researchers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aecf",
+        "question": "What is a Bachelor of Science in Environmental Science?",
+        "answer": "A Bachelor of Science in Environmental Science is an undergraduate degree program that focuses on the study of the environment, ecosystems, natural resources, and sustainability."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed0",
+        "question": "What courses are included in the Environmental Science?",
+        "answer": "Courses in the Environmental Science may include Ecology, Conservation Biology, Environmental Chemistry, Geology, Environmental Policy, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed1",
+        "question": "What career opportunities are available for Environmental Science graduates?",
+        "answer": "Environmental Science graduates can pursue careers as environmental scientists, conservationists, environmental consultants, policy analysts, sustainability specialists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed2",
+        "question": "What is a Bachelor of Science in Electrical Engineering?",
+        "answer": "A Bachelor of Science in Electrical Engineering is an undergraduate degree program that focuses on the study of electronics, electromagnetism, power systems, and electrical circuits."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed3",
+        "question": "What courses are included in the Electrical Engineering?",
+        "answer": "Courses in the Electrical Engineering may include Circuit Analysis, Digital Electronics, Control Systems, Power Electronics, Signal Processing, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed4",
+        "question": "What career opportunities are available for Electrical Engineering graduates?",
+        "answer": "Electrical Engineering graduates can pursue careers as electrical engineers, electronics engineers, power systems engineers, telecommunications engineers, embedded systems engineers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed5",
+        "question": "What is a Bachelor of Arts in Political Science?",
+        "answer": "A Bachelor of Arts in Political Science is an undergraduate degree program that explores the study of government systems, political ideologies, public policy, and international relations."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed6",
+        "question": "What courses are included in the Political Science?",
+        "answer": "Courses in the Political Science may include American Government, Comparative Politics, International Relations, Political Theory, Public Policy Analysis, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed7",
+        "question": "What career opportunities are available for Political Science graduates?",
+        "answer": "Political Science graduates can pursue careers as political analysts, lobbyists, government officials, policy researchers, international relations specialists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed8",
+        "question": "What is a Bachelor of Science in Chemistry?",
+        "answer": "A Bachelor of Science in Chemistry is an undergraduate degree program that focuses on the study of matter, chemical reactions, and the properties of elements and compounds."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aed9",
+        "question": "What courses are included in the Chemistry?",
+        "answer": "Courses in the Chemistry may include General Chemistry, Organic Chemistry, Analytical Chemistry, Physical Chemistry, Inorganic Chemistry, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeda",
+        "question": "What career opportunities are available for Chemistry graduates?",
+        "answer": "Chemistry graduates can pursue careers as chemists, chemical engineers, laboratory technicians, pharmacists, forensic scientists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aedb",
+        "question": "What is a Bachelor of Fine Arts in Studio Art?",
+        "answer": "A Bachelor of Fine Arts in Studio Art is an undergraduate degree program that emphasizes the development of artistic skills and creativity in various mediums such as painting, sculpture, drawing, and ceramics."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aedc",
+        "question": "What courses are included in the Studio Art?",
+        "answer": "Courses in the Studio Art may include Drawing Fundamentals, Painting Techniques, Sculpture, Printmaking, Ceramics, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aedd",
+        "question": "What career opportunities are available for Studio Art graduates?",
+        "answer": "Studio Art graduates can pursue careers as artists, art teachers, art directors, museum/gallery curators, illustrators, and freelance designers."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aede",
+        "question": "What is a Bachelor of Science in Mathematics?",
+        "answer": "A Bachelor of Science in Mathematics is an undergraduate degree program that focuses on the study of numbers, patterns, and mathematical structures."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aedf",
+        "question": "What courses are included in the Mathematics?",
+        "answer": "Courses in the Mathematics may include Calculus, Linear Algebra, Discrete Mathematics, Differential Equations, Abstract Algebra, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee0",
+        "question": "What career opportunities are available for Mathematics graduates?",
+        "answer": "Mathematics graduates can pursue careers as actuaries, statisticians, data analysts, operations research analysts, mathematicians, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee1",
+        "question": "What is a Bachelor of Science in Computer Science(BSC)?",
+        "answer": "A Bachelor of Science in Computer Science is an undergraduate degree program that focuses on the theory, design, and application of computer systems and software."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee2",
+        "question": "What courses are included in the Computer Science?",
+        "answer": "Courses in the Computer Science may include Programming Fundamentals, Data Structures and Algorithms, Computer Networks, Operating Systems, Software Engineering, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee3",
+        "question": "What career opportunities are available for Computer Science graduates?",
+        "answer": "Computer Science graduates can pursue careers as software developers, systems analysts, computer programmers, database administrators, network administrators, cybersecurity analysts, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee4",
+        "question": "What is a Bachelor of Arts in English Literature?",
+        "answer": "A Bachelor of Arts in English Literature is an undergraduate degree program that explores the study of literary texts, genres, and critical theories within the English language."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee5",
+        "question": "What courses are included in the English Literature?",
+        "answer": "Courses in the English Literature may include Literary Theory, British Literature, American Literature, World Literature, Creative Writing, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee6",
+        "question": "What career opportunities are available for English Literature graduates?",
+        "answer": "English Literature graduates can pursue careers as writers, editors, teachers, librarians, journalists, public relations specialists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee7",
+        "question": "What is a Bachelor of Business Administration (BBA)?",
+        "answer": "A Bachelor of Business Administration (BBA) is an undergraduate degree program that provides students with a comprehensive understanding of business principles, management practices, and organizational behavior."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee8",
+        "question": "What courses are included in the Business Administration?",
+        "answer": "Courses in the Business Administration may include Accounting, Finance, Marketing, Management, Business Ethics, Business Law, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aee9",
+        "question": "What career opportunities are available for Business Administration graduates?",
+        "answer": "Business Administration graduates can pursue careers as business analysts, marketing managers, financial analysts, human resource managers, operations managers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeea",
+        "question": "What is a Bachelor of Science in Biology?",
+        "answer": "A Bachelor of Science in Biology is an undergraduate degree program that focuses on the study of living organisms, their structure, function, evolution, and ecology."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeeb",
+        "question": "What courses are included in the Biology?",
+        "answer": "Courses in the Biology may include Cell Biology, Genetics, Ecology, Evolutionary Biology, Physiology, Microbiology, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeec",
+        "question": "What career opportunities are available for Biology graduates?",
+        "answer": "Biology graduates can pursue careers as research scientists, healthcare professionals, environmental consultants, biotechnologists, pharmacologists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeed",
+        "question": "What is a Bachelor of Arts in Psychology?",
+        "answer": "A Bachelor of Arts in Psychology is an undergraduate degree program that explores the scientific study of human behavior and mental processes."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeee",
+        "question": "What courses are included in the Psychology?",
+        "answer": "Courses in the Psychology may include Introduction to Psychology, Social Psychology, Cognitive Psychology, Abnormal Psychology, Developmental Psychology, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeef",
+        "question": "What career opportunities are available for Psychology graduates?",
+        "answer": "Psychology graduates can pursue careers as counselors, therapists, social workers, human resource specialists, market researchers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef0",
+        "question": "What is a Bachelor of Science in Civil Engineering?",
+        "answer": "A Bachelor of Science in Civil Engineering is an undergraduate degree program that focuses on the design, construction, and maintenance of infrastructure such as buildings, roads, bridges, and dams."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef1",
+        "question": "What courses are included in the Civil Engineering?",
+        "answer": "Courses in the Civil Engineering may include Structural Engineering, Geotechnical Engineering, Transportation Engineering, Environmental Engineering, Construction Management, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef2",
+        "question": "What career opportunities are available for Civil Engineering graduates?",
+        "answer": "Civil Engineering graduates can pursue careers as civil engineers, structural engineers, transportation engineers, environmental engineers, construction managers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef3",
+        "question": "What is a Bachelor of Arts in Sociology?",
+        "answer": "A Bachelor of Arts in Sociology is an undergraduate degree program that explores the study of human society, social behavior, and social institutions."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef4",
+        "question": "What courses are included in the Sociology?",
+        "answer": "Courses in the Sociology may include Sociological Theory, Social Research Methods, Race and Ethnicity, Gender Studies, Criminology, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef5",
+        "question": "What career opportunities are available for Sociology graduates?",
+        "answer": "Sociology graduates can pursue careers as sociologists, social workers, community organizers, market researchers, policy analysts, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef6",
+        "question": "What is a Bachelor of Science in Physics?",
+        "answer": "A Bachelor of Science in Physics is an undergraduate degree program that focuses on the study of matter, energy, and the fundamental laws of the universe."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef7",
+        "question": "What courses are included in the Physics?",
+        "answer": "Courses in the Physics may include Classical Mechanics, Electromagnetism, Quantum Mechanics, Thermodynamics, Astrophysics, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef8",
+        "question": "What career opportunities are available for Physics graduates?",
+        "answer": "Physics graduates can pursue careers as physicists, research scientists, engineers, astronomers, data analysts, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aef9",
+        "question": "What is a Bachelor of Fine Arts in Theater?",
+        "answer": "A Bachelor of Fine Arts in Theater is an undergraduate degree program that focuses on the study of dramatic arts, theater production, acting techniques, and theatrical design."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aefa",
+        "question": "What courses are included in the Theater?",
+        "answer": "Courses in the Theater may include Acting Fundamentals, Stagecraft, Play Analysis, Directing, Costume Design, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aefb",
+        "question": "What career opportunities are available for Theater graduates?",
+        "answer": "Theater graduates can pursue careers as actors, directors, stage managers, set designers, lighting technicians, drama teachers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aefc",
+        "question": "What is a Bachelor of Science in Environmental Engineering?",
+        "answer": "A Bachelor of Science in Environmental Engineering is an undergraduate degree program that focuses on the application of engineering principles to protect and improve the environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aefd",
+        "question": "What courses are included in the Environmental Engineering?",
+        "answer": "Courses in the Environmental Engineering may include Water Quality Engineering, Air Pollution Control, Solid Waste Management, Environmental Impact Assessment, Sustainable Engineering, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aefe",
+        "question": "What career opportunities are available for Environmental Engineering graduates?",
+        "answer": "Environmental Engineering graduates can pursue careers as environmental engineers, environmental consultants, sustainability coordinators, waste management specialists, water resource engineers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aeff",
+        "question": "What is a Bachelor of Arts in Economics?",
+        "answer": "A Bachelor of Arts in Economics is an undergraduate degree program that focuses on the study of production, distribution, and consumption of goods and services."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af00",
+        "question": "What courses are included in the Economics?",
+        "answer": "Courses in the Economics may include Microeconomics, Macroeconomics, Econometrics, International Economics, Labor Economics, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af01",
+        "question": "What career opportunities are available for Economics graduates?",
+        "answer": "Economics graduates can pursue careers as economists, financial analysts, market researchers, policy analysts, investment bankers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af02",
+        "question": "What is a Bachelor of Science in Aerospace Engineering?",
+        "answer": "A Bachelor of Science in Aerospace Engineering is an undergraduate degree program that focuses on the design, development, and testing of aircraft, spacecraft, and related systems."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af03",
+        "question": "What courses are included in the Aerospace Engineering?",
+        "answer": "Courses in the Aerospace Engineering may include Aerodynamics, Aerospace Structures, Propulsion Systems, Flight Mechanics, Spacecraft Design, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af04",
+        "question": "What career opportunities are available for Aerospace Engineering graduates?",
+        "answer": "Aerospace Engineering graduates can pursue careers as aerospace engineers, aircraft designers, avionics engineers, aerospace technicians, research scientists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af05",
+        "question": "What is a Bachelor of Arts in Anthropology?",
+        "answer": "A Bachelor of Arts in Anthropology is an undergraduate degree program that explores the study of human cultures, societies, and behavior throughout history and across different regions."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af06",
+        "question": "What courses are included in the Anthropology?",
+        "answer": "Courses in the Anthropology may include Cultural Anthropology, Archaeology, Biological Anthropology, Linguistic Anthropology, Anthropological Theory, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af07",
+        "question": "What career opportunities are available for Anthropology graduates?",
+        "answer": "Anthropology graduates can pursue careers as anthropologists, archaeologists, museum curators, cultural resource managers, social researchers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af08",
+        "question": "What is a Bachelor of Science in Geology?",
+        "answer": "A Bachelor of Science in Geology is an undergraduate degree program that focuses on the study of Earth's materials, processes, and history."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af09",
+        "question": "What courses are included in the Geology?",
+        "answer": "Courses in the Geology may include Mineralogy, Petrology, Sedimentology, Structural Geology, Paleontology, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af0a",
+        "question": "What career opportunities are available for Geology graduates?",
+        "answer": "Geology graduates can pursue careers as geologists, geological engineers, environmental consultants, geotechnical engineers, hydrologists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af0b",
+        "question": "What is a Bachelor of Fine Arts in Dance?",
+        "answer": "A Bachelor of Fine Arts in Dance is an undergraduate degree program that focuses on the study of dance techniques, choreography, performance, and dance history."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af0c",
+        "question": "What courses are included in the Dance?",
+        "answer": "Courses in the Dance may include Ballet Technique, Modern Dance, Jazz Dance, Choreography, Dance History, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af0d",
+        "question": "What career opportunities are available for Dance graduates?",
+        "answer": "Dance graduates can pursue careers as dancers, choreographers, dance instructors, dance therapists, arts administrators, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af0e",
+        "question": "What is a Bachelor of Science in Information Technology?",
+        "answer": "A Bachelor of Science in Information Technology is an undergraduate degree program that focuses on the study of computer systems, networks, and information management."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af0f",
+        "question": "What courses are included in the Information Technology?",
+        "answer": "Courses in the Information Technology may include Computer Programming, Database Management, Network Security, Web Development, IT Project Management, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af10",
+        "question": "What career opportunities are available for Information Technology graduates?",
+        "answer": "Information Technology graduates can pursue careers as IT specialists, network administrators, systems analysts, software developers, cybersecurity analysts, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af11",
+        "question": "What is a Bachelor of Arts in Philosophy?",
+        "answer": "A Bachelor of Arts in Philosophy is an undergraduate degree program that focuses on the study of fundamental questions about existence, knowledge, values, reason, mind, and language."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af12",
+        "question": "What courses are included in the Philosophy?",
+        "answer": "Courses in the Philosophy may include Logic, Ethics, Metaphysics, Epistemology, Philosophy of Science, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af13",
+        "question": "What career opportunities are available for Philosophy graduates?",
+        "answer": "Philosophy graduates can pursue careers as philosophers, writers, teachers, lawyers, policy analysts, ethicists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af14",
+        "question": "What is a Bachelor of Science in Chemical Engineering?",
+        "answer": "A Bachelor of Science in Chemical Engineering is an undergraduate degree program that focuses on the study of chemical processes, materials, and industrial applications."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af15",
+        "question": "What courses are included in the Chemical Engineering?",
+        "answer": "Courses in the Chemical Engineering may include Thermodynamics, Chemical Kinetics, Process Control, Transport Phenomena, Chemical Reaction Engineering, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af16",
+        "question": "What career opportunities are available for Chemical Engineering graduates?",
+        "answer": "Chemical Engineering graduates can pursue careers as chemical engineers, process engineers, environmental engineers, pharmaceutical engineers, materials scientists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af17",
+        "question": "What is a Bachelor of Arts in Communications?",
+        "answer": "A Bachelor of Arts in Communications is an undergraduate degree program that focuses on the study of human communication, media, and information dissemination."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af18",
+        "question": "What courses are included in the Communications?",
+        "answer": "Courses in the Communications may include Media Studies, Journalism, Public Relations, Advertising, Digital Media Production, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af19",
+        "question": "What career opportunities are available for Communications graduates?",
+        "answer": "Communications graduates can pursue careers as public relations specialists, journalists, social media managers, advertising executives, corporate communicators, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af1a",
+        "question": "What is a Bachelor of Science in Environmental Science?",
+        "answer": "A Bachelor of Science in Environmental Science is an undergraduate degree program that focuses on the study of the environment, ecosystems, and natural resources."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af1b",
+        "question": "What courses are included in the Environmental Science?",
+        "answer": "Courses in the Environmental Science may include Ecology, Environmental Chemistry, Conservation Biology, Environmental Policy, Environmental Impact Assessment, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af1c",
+        "question": "What career opportunities are available for Environmental Science graduates?",
+        "answer": "Environmental Science graduates can pursue careers as environmental scientists, conservationists, sustainability consultants, environmental policy analysts, urban planners, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af1d",
+        "question": "What is a Bachelor of Arts in International Relations?",
+        "answer": "A Bachelor of Arts in International Relations is an undergraduate degree program that focuses on the study of global politics, diplomacy, and international cooperation."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af1e",
+        "question": "What courses are included in the International Relations?",
+        "answer": "Courses in the International Relations may include International Law, Comparative Politics, Global Governance, Conflict Resolution, Diplomacy, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af1f",
+        "question": "What career opportunities are available for International Relations graduates?",
+        "answer": "International Relations graduates can pursue careers as diplomats, foreign service officers, international development specialists, political analysts, NGO workers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af20",
+        "question": "What is a Bachelor of Science in Computer Engineering?",
+        "answer": "A Bachelor of Science in Computer Engineering is an undergraduate degree program that focuses on the study of computer hardware, software, and embedded systems."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af21",
+        "question": "What courses are included in the Computer Engineering?",
+        "answer": "Courses in the Computer Engineering may include Digital Systems Design, Computer Architecture, Embedded Systems, Operating Systems, Computer Networks, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af22",
+        "question": "What career opportunities are available for Computer Engineering graduates?",
+        "answer": "Computer Engineering graduates can pursue careers as computer hardware engineers, software developers, embedded systems engineers, firmware engineers, IT consultants, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af23",
+        "question": "What is a Bachelor of Arts in Linguistics?",
+        "answer": "A Bachelor of Arts in Linguistics is an undergraduate degree program that focuses on the scientific study of language structure, meaning, and use."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af24",
+        "question": "What courses are included in the Linguistics?",
+        "answer": "Courses in the Linguistics may include Phonetics, Syntax, Semantics, Sociolinguistics, Psycholinguistics, and Computational Linguistics, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af25",
+        "question": "What career opportunities are available for Linguistics graduates?",
+        "answer": "Linguistics graduates can pursue careers as linguists, language teachers, speech therapists, computational linguists, translators, interpreters, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af26",
+        "question": "What is a Bachelor of Science in Industrial Engineering?",
+        "answer": "A Bachelor of Science in Industrial Engineering is an undergraduate degree program that focuses on the optimization of complex systems, processes, and organizations to improve efficiency and productivity."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af27",
+        "question": "What courses are included in the Industrial Engineering?",
+        "answer": "Courses in the Industrial Engineering may include Operations Research, Supply Chain Management, Quality Control, Ergonomics, Production Planning, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af28",
+        "question": "What career opportunities are available for Industrial Engineering graduates?",
+        "answer": "Industrial Engineering graduates can pursue careers as industrial engineers, operations managers, supply chain analysts, manufacturing engineers, logistics coordinators, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af29",
+        "question": "What is a Bachelor of Arts in History?",
+        "answer": "A Bachelor of Arts in History is an undergraduate degree program that explores the study of past events, societies, cultures, and historical interpretations."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af2a",
+        "question": "What courses are included in the History?",
+        "answer": "Courses in the History may include World History, European History, American History, Ancient History, Medieval History, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af2b",
+        "question": "What career opportunities are available for History graduates?",
+        "answer": "History graduates can pursue careers as historians, archivists, museum curators, educators, writers, researchers, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af2c",
+        "question": "What is a Bachelor of Science in Biomedical Engineering?",
+        "answer": "A Bachelor of Science in Biomedical Engineering is an undergraduate degree program that focuses on the application of engineering principles to solve medical and healthcare problems."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af2d",
+        "question": "What courses are included in the Biomedical Engineering?",
+        "answer": "Courses in the Biomedical Engineering may include Biomechanics, Biomaterials, Medical Imaging, Bioinstrumentation, Tissue Engineering, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af2e",
+        "question": "What career opportunities are available for Biomedical Engineering graduates?",
+        "answer": "Biomedical Engineering graduates can pursue careers as biomedical engineers, medical device developers, research scientists, clinical engineers, regulatory affairs specialists, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af2f",
+        "question": "What is a Bachelor of Arts in Sociology?",
+        "answer": "A Bachelor of Arts in Sociology is an undergraduate degree program that focuses on the study of human society, social institutions, and social behavior."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af30",
+        "question": "What courses are included in the Sociology?",
+        "answer": "Courses in the Sociology may include Sociological Theory, Social Research Methods, Criminology, Gender Studies, Social Stratification, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af31",
+        "question": "What career opportunities are available for Sociology graduates?",
+        "answer": "Sociology graduates can pursue careers as sociologists, social workers, counselors, market researchers, policy analysts, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af32",
+        "question": "What is a Bachelor of Science in Mathematics?",
+        "answer": "A Bachelor of Science in Mathematics is an undergraduate degree program that focuses on the study of numbers, patterns, and mathematical structures."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af33",
+        "question": "What courses are included in the Mathematics?",
+        "answer": "Courses in the Mathematics may include Calculus, Linear Algebra, Differential Equations, Probability Theory, Statistics, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af34",
+        "question": "What career opportunities are available for Mathematics graduates?",
+        "answer": "Mathematics graduates can pursue careers as mathematicians, actuaries, data analysts, statisticians, educators, and more."
+    },
+    {
+        "_id": "66d053be68b1c87862f5af35",
+        "question": "computer science and business system",
+        "answer": "A B.Tech in Computer Science and Business Systems (CSBS) is an undergraduate engineering degree program that combines aspects of both Computer Science and Business Systems Engineering. This interdisciplinary program aims to equip students with a strong foundation in computer science principles, programming skills, and business knowledge"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af36",
+        "question": "hi",
+        "answer": "hello, how can I help you?"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af37",
+        "question": "exit",
+        "answer": "thank you for choosing us"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af38",
+        "question": "voice",
+        "answer": "speak"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af39",
+        "question": "Could not understand the audio",
+        "answer": "Google Speech Recognition could not understand the audio"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af3a",
+        "question": "Google",
+        "answer": "click here https://google.com"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af3b",
+        "question": "thank you",
+        "answer": "You're welcome! If you have any more questions or need assistance in the future, don't hesitate to ask. Have a great day!"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af3c",
+        "question": "Indian Institute of Technology Bombay",
+        "answer": "Mumbai,Public,A++,Engineering,?2,00,000/year,1,https://www.iitb.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af3d",
+        "question": "Indian Institute of Management Ahmedabad",
+        "answer": "Ahmedabad,Public,A++,Management,?20,00,000/year,1,https://www.iima.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af3e",
+        "question": "National Institute of Technology Karnataka",
+        "answer": "Surathkal,Public,A,Engineering,?1,50,000/year,10,https://www.nitk.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af3f",
+        "question": "Delhi University",
+        "answer": "Delhi,Public,A,Various,?30,000/year (approx.),20,https://www.du.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af40",
+        "question": "Indian Institute of Science",
+        "answer": "Bangalore,Public,A++,Science & Research,?1,00,000/year,2,https://www.iisc.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af41",
+        "question": "Indian School of Business",
+        "answer": "Hyderabad,Private,A++,Management,?25,00,000/year,3,https://www.isb.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af42",
+        "question": "Jamia Millia Islamia",
+        "answer": "New Delhi,Public,A,Various,?20,000/year (approx.),30,https://www.jmi.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af43",
+        "question": "Manipal Institute of Technology",
+        "answer": "Manipal,Private,A,Engineering,?4,00,000/year,15,https://manipal.edu/mit.html"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af44",
+        "question": "Anna University",
+        "answer": "Chennai,Public,A,Engineering,?1,00,000/year,20,https://www.annauniv.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af45",
+        "question": "Birla Institute of Technology and Science",
+        "answer": "Pilani,Private,A++,Engineering,?4,50,000/year,5,https://www.bits-pilani.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af46",
+        "question": "Anna University",
+        "answer": "Anna University,Chennai,Public,A,Engineering,?1,00,000/year,20,https://www.annauniv.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af47",
+        "question": "Indian Institute of Technology Madras (IIT Madras)",
+        "answer": "Indian Institute of Technology Madras (IITM),Chennai,Public,A++,Engineering,Varies,1,https://www.iitm.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af48",
+        "question": "National Institute of Technology Tiruchirappalli (NIT Trichy)",
+        "answer": "National Institute of Technology Trichy (NITT),Tiruchirappalli,Public,A,Engineering,Varies,10,https://www.nitt.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af49",
+        "question": " Madras Institute of Technology (MIT)",
+        "answer": "Madras Institute of Technology (MIT),Chennai,Public,A,Engineering,Varies,Varies,https://www.mitindia.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af4a",
+        "question": " Government College of Technology (GCT)",
+        "answer": "Government College of Technology (GCT),Coimbatore,Public,A,Engineering,Varies,Varies,https://www.gct.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af4b",
+        "question": " Vellore Institute of Technology (VIT)",
+        "answer": "Vellore Institute of Technology (VIT),Vellore,Private,A++,Engineering,Varies,Varies,https://www.vit.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af4c",
+        "question": "PSG College of Technology",
+        "answer": "PSG College of Technology,Coimbatore,Private,A,Engineering,Varies,Varies,https://www.psgtech.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af4d",
+        "question": "Sri Sivasubramaniya Nadar College of Engineering (SSNCE)",
+        "answer": "Sri Sivasubramaniya Nadar College of Engineering (SSNCE),Chennai,Private,A,Engineering,Varies,Varies,https://www.ssn.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af4e",
+        "question": "Thiagarajar College of Engineering (TCE)",
+        "answer": "Thiagarajar College of Engineering (TCE),Madurai,Private,A,Engineering,Varies,Varies,https://www.tce.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af4f",
+        "question": " Coimbatore Institute of Technology (CIT)",
+        "answer": "Coimbatore Institute of Technology (CIT),Coimbatore,Private,A,Engineering,Varies,Varies,https://www.cit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af50",
+        "question": "Sri Sivasubramaniya Nadar College of Engineering (SSNCE), Chennai",
+        "answer": "Chennai,Private,A,Engineering,Varies,Varies,https://www.ssn.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af51",
+        "question": "SASTRA Deemed University, Thanjavur",
+        "answer": "Thanjavur,Private,A,Engineering,Varies,Varies,https://www.sastra.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af52",
+        "question": "Government College of Engineering, Salem",
+        "answer": "Salem,Public,A,Engineering,Varies,Varies,https://www.gcesalem.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af53",
+        "question": "Sathyabama Institute of Science and Technology, Chennai",
+        "answer": "Chennai,Private,A++,Engineering,Varies,Varies,https://www.sathyabama.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af54",
+        "question": "Kumaraguru College of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,A,Engineering,Varies,Varies,https://www.kct.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af55",
+        "question": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai",
+        "answer": "Chennai,Private,A,Engineering,Varies,Varies,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af56",
+        "question": "St. Joseph's College of Engineering, Chennai",
+        "answer": "Chennai,Private,A,Engineering,Varies,Varies,https://www.stjosephs.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af57",
+        "question": "Mepco Schlenk Engineering College, Sivakasi",
+        "answer": "Sivakasi,Private,A,Engineering,Varies,Varies,https://www.mepcoeng.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af58",
+        "question": "Sri Ramakrishna Engineering College, Coimbatore",
+        "answer": "Coimbatore,Private,A,Engineering,Varies,Varies,https://www.srec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af59",
+        "question": " PSG College of Technology",
+        "answer": "Coimbatore,Private,A,Engineering,Varies,Varies,https://www.psgtech.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af5a",
+        "question": "Hindustan Institute of Technology and Science (HITS)",
+        "answer": "Chennai,Private,A,Engineering,Varies,Varies,https://www.hindustanuniv.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af5b",
+        "question": " Thiagarajar College of Engineering (TCE)",
+        "answer": "Madurai,Private,A,Engineering,Varies,Varies,https://www.tce.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af5c",
+        "question": "Madras Institute of Technology (MIT)",
+        "answer": "Chennai,Public,A,Engineering,Varies,Varies,https://www.annauniv.edu/mit/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af5d",
+        "question": " Vellore Institute of Technology (VIT)",
+        "answer": "Vellore,Private,A++,Engineering,Varies,Varies,https://www.vit.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af5e",
+        "question": " SRM Institute of Science and Technology",
+        "answer": "Chennai,Private,A++,Engineering,Varies,Varies,https://www.srmist.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af5f",
+        "question": "Coimbatore Institute of Technology (CIT)",
+        "answer": "Coimbatore,Private,A,Engineering,Varies,Varies,https://www.cit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af60",
+        "question": "Madurai Institute of Engineering and Technology (MIET)",
+        "answer": "Madurai,Private,A,Engineering,Varies,Varies,https://www.miet.edu/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af61",
+        "question": "Bannari Amman Institute of Technology (BIT)",
+        "answer": "Sathyamangalam,Private,A,Engineering,Varies,Varies,https://www.bitsathy.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af62",
+        "question": "Karpagam College of Engineering",
+        "answer": "Coimbatore,Private,A,Engineering,Varies,Varies,https://www.kce.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af63",
+        "question": " Rajalakshmi Engineering College",
+        "answer": "Chennai,Private,A,Engineering,Varies,Varies,https://www.rajalakshmi.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af64",
+        "question": "Government College of Engineering, Coimbatore",
+        "answer": "Government College of Engineering, Coimbatore,Coimbatore,Government,NAAC,Engineering,Variable,-,http://www.gct.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af65",
+        "question": "kongu Engineering College, Erode",
+        "answer": "Kongu Engineering College,Erode,Erode,Private,NAAC,Engineering,Variable,-,https://www.kongu.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af66",
+        "question": "Velammal Engineering College, Chennai",
+        "answer": "Velammal Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.velammaltrust.com/engineering/index.html"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af67",
+        "question": "Sri Krishna College of Engineering and Technology, Coimbatore",
+        "answer": "Sri Krishna College of Engineering and Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.skct.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af68",
+        "question": "Saveetha Engineering College, Chennai",
+        "answer": "Saveetha Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.saveetha.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af69",
+        "question": "Sri Sai Ram Engineering College, Chennai",
+        "answer": "Sri Sai Ram Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,http://www.sairamengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af6a",
+        "question": "Jeppiaar Engineering College, Chennai",
+        "answer": "Jeppiaar Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.jeppiaarcollege.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af6b",
+        "question": "Panimalar Engineering College, Chennai",
+        "answer": "Panimalar Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,http://www.panimalar.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af6c",
+        "question": "Easwari Engineering College, Chennai",
+        "answer": "Easwari Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,http://www.srmeaswari.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af6d",
+        "question": "Sri Venkateswara College of Engineering, Sriperumbudur",
+        "answer": "Sri Venkateswara College of Engineering,Sriperumbudur,Sriperumbudur,Private,NAAC,Engineering,Variable,-,https://www.svce.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af6e",
+        "question": "Sri Sairam Institute of Technology, Chennai",
+        "answer": "Sri Sairam Institute of Technology,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.sairamit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af6f",
+        "question": " Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",
+        "answer": "Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af70",
+        "question": "Sri Ramakrishna Institute of Technology, Coimbatore",
+        "answer": "Sri Ramakrishna Institute of Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.srit.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af71",
+        "question": "Sri Krishna College of Technology, Coimbatore",
+        "answer": "Sri Krishna College of Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.skct.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af72",
+        "question": "Adhiyamaan College of Engineering, Hosur",
+        "answer": "Adhiyamaan College of Engineering,Hosur,Hosur,Private,NAAC,Engineering,Variable,-,https://www.adhiyamaan.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af73",
+        "question": "Hindustan College of Engineering and Technology, Coimbatore",
+        "answer": "Hindustan College of Engineering and Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.hindusthan.net/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af74",
+        "question": " Arunai Engineering College, Tiruvannamalai",
+        "answer": "Arunai Engineering College,Tiruvannamalai,Tiruvannamalai,Private,NAAC,Engineering,Variable,-,http://www.arunai.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af75",
+        "question": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",
+        "answer": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af76",
+        "question": "PSNA College of Engineering and Technology, Dindigul",
+        "answer": "PSNA College of Engineering and Technology,Dindigul,Dindigul,Private,NAAC,Engineering,Variable,-,https://www.psna.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af77",
+        "question": "St. Peter's College of Engineering and Technology, Chennai",
+        "answer": "St. Peter's College of Engineering and Technology,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.stpetersuniversity.org.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af78",
+        "question": "KPR Institute of Engineering and Technology, Coimbatore",
+        "answer": "KPR Institute of Engineering and Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.kpriet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af79",
+        "question": " R.M.K. Engineering College, Chennai",
+        "answer": "R.M.K. Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.rmkec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af7a",
+        "question": "Sri Krishna Institute of Technology, Coimbatore",
+        "answer": "Sri Krishna Institute of Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.skit.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af7b",
+        "question": "Velalar College of Engineering and Technology, Erode",
+        "answer": "Velalar College of Engineering and Technology,Erode,Erode,Private,NAAC,Engineering,Variable,-,https://www.velalarengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af7c",
+        "question": " KGISL Institute of Technology, Coimbatore",
+        "answer": "KGISL Institute of Technology,Coimbatore,Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.kgkite.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af7d",
+        "question": "M.Kumarasamy College of Engineering, Karur",
+        "answer": "M.Kumarasamy College of Engineering,Karur,Karur,Private,NAAC,Engineering,Variable,-,https://www.mkce.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af7e",
+        "question": "Bannari Amman Institute of Technology, Sathyamangalam",
+        "answer": "Bannari Amman Institute of Technology,Sathyamangalam,Sathyamangalam,Private,NAAC,Engineering,Variable,-,https://www.bitsathy.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af7f",
+        "question": " Sri Venkateswara Institute of Science and Technology, Thirupachur",
+        "answer": "Sri Venkateswara Institute of Science and Technology,Thirupachur,Thirupachur,Private,NAAC,Engineering,Variable,-,http://www.svist.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af80",
+        "question": "Excel Engineering College, Namakkal",
+        "answer": "Excel Engineering College,Namakkal,Namakkal,Private,NAAC,Engineering,Variable,-,https://www.excelinstitutions.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af81",
+        "question": "Thanthai Periyar Government Institute of Technology, Vellore",
+        "answer": "Thanthai Periyar Government Institute of Technology,Vellore,Vellore,Public,NAAC,Engineering,Variable,-,https://tpgit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af82",
+        "question": "R.M.D. Engineering College, Chennai",
+        "answer": "R.M.D. Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.rmd.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af83",
+        "question": "Sri Muthukumaran Institute of Technology, Chennai",
+        "answer": "Sri Muthukumaran Institute of Technology,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.smitchennai.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af84",
+        "question": "Jaya Engineering College, Chennai",
+        "answer": "Jaya Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.jec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af85",
+        "question": "Anand Institute of Higher Technology, Chennai",
+        "answer": "Anand Institute of Higher Technology,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.aiht.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af86",
+        "question": "Sri Krishna Institute of Management, Coimbatore",
+        "answer": "Sri Krishna Institute of Management,Coimbatore,Coimbatore,Private,NAAC,Management,Variable,-,https://www.skit.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af87",
+        "question": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",
+        "answer": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College,Chennai,Chennai,Private,NAAC,Engineering,Variable,-,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af88",
+        "question": "PSNA College of Engineering and Technology, Dindigul",
+        "answer": "PSNA College of Engineering and Technology,Dindigul,Dindigul,Private,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af89",
+        "question": "P.S.G.R. Krishnammal College for Women, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://psgrkcw.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af8a",
+        "question": "Sri Ramanujar Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.srec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af8b",
+        "question": "P.S.R. Engineering College, Sivakas",
+        "answer": "Sivakasi,Private,NAAC,Engineering,Variable,-,http://www.psr.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af8c",
+        "question": "KCG College of Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.kcgcollege.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af8d",
+        "question": "Sri Venkateswara College of Engineering and Technology, Thiruvallur",
+        "answer": "Thiruvallur,Private,NAAC,Engineering,Variable,-,http://svcetedu.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af8e",
+        "question": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af8f",
+        "question": "Arunai Engineering College, Tiruvannamalai",
+        "answer": "Tiruvannamalai,Private,NAAC,Engineering,Variable,-,http://www.arunai.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af90",
+        "question": "Sri Sai Ram Institute of Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.sairamit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af91",
+        "question": "Erode Sengunthar Engineering College, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,https://www.erode-sengunthar.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af92",
+        "question": "Dhanalakshmi Srinivasan College of Engineering and Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://dsengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af93",
+        "question": "Erode Sengunthar Engineering College, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,https://www.erode-sengunthar.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af94",
+        "question": "St. Joseph's Institute of Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.stjosephstechnology.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af95",
+        "question": " Sri Shakthi Institute of Engineering and Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.siet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af96",
+        "question": " Arulmigu Meenakshi Amman College of Engineering, Kanchipuram",
+        "answer": "Kanchipuram,Private,NAAC,Engineering,Variable,-,http://www.arulmeenakshicollege.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af97",
+        "question": " Sri Sai Ram Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.sairamengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af98",
+        "question": " Dr. Mahalingam College of Engineering and Technology, Pollachi",
+        "answer": "Pollachi,Private,NAAC,Engineering,Variable,-,https://drmcet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af99",
+        "question": " Dhaanish Ahmed College of Engineering, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.dhaanishcollege.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af9a",
+        "question": "Sri Venkateswara Institute of Science and Technology, Thirupachur",
+        "answer": "Thirupachur,Private,NAAC,Engineering,Variable,-,https://www.svist.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af9b",
+        "question": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af9c",
+        "question": "Velalar College of Engineering and Technology, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,https://www.velalarengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af9d",
+        "question": "K.S. Rangasamy College of Technology, Tiruchengode",
+        "answer": "Tiruchengode,Private,NAAC,Engineering,Variable,-,http://www.ksrct.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af9e",
+        "question": "Kongu Engineering College, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,https://www.kongu.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5af9f",
+        "question": "St. Xavier's Catholic College of Engineering, Nagercoil",
+        "answer": "Nagercoil,Private,NAAC,Engineering,Variable,-,http://www.sxccenag.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa0",
+        "question": "Adhiparasakthi Engineering College, Kanchipuram",
+        "answer": "Kanchipuram,Private,NAAC,Engineering,Variable,-,http://www.adhiparasakthi.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa1",
+        "question": "Francis Xavier Engineering College, Tirunelveli",
+        "answer": "Tirunelveli,Private,NAAC,Engineering,Variable,-,http://www.francisxavier.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa2",
+        "question": " M.A.M. College of Engineering and Technology, Tiruchirappalli",
+        "answer": "Tiruchirappalli,Private,NAAC,Engineering,Variable,-,https://www.mamcet.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa3",
+        "question": "Misrimal Navajee Munoth Jain Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa4",
+        "question": "Nehru Institute of Engineering and Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa5",
+        "question": "Panimalar Institute of Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa6",
+        "question": "Sengunthar Engineering College, Tiruchengode",
+        "answer": "Tiruchengode,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa7",
+        "question": "Sree Sastha Institute of Engineering and Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa8",
+        "question": "Sri Krishna College of Engineering and Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afa9",
+        "question": "Vins Christian College of Engineering, Nagercoil",
+        "answer": "Nagercoil,Private,NAAC,Engineering,Variable,-,NA"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afaa",
+        "question": "Easwari Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.easwarienggcollege.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afab",
+        "question": "Karpagam Institute of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.kitcbe.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afac",
+        "question": "Kings Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.kingsindia.net/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afad",
+        "question": "Mailam Engineering College, Villupuram",
+        "answer": "Villupuram,Private,NAAC,Engineering,Variable,-,http://mailamengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afae",
+        "question": "Narasu's Sarathy Institute of Technology, Salem",
+        "answer": "Salem,Private,NAAC,Engineering,Variable,-,https://www.nsit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afaf",
+        "question": "P.R. Engineering College, Thanjavur",
+        "answer": "Thanjavur,Private,NAAC,Engineering,Variable,-,http://www.presidencychennai.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb0",
+        "question": "RVS College of Engineering and Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.rvscet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb1",
+        "question": "Shri Andal Alagar College of Engineering, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.shriandalalagar.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb2",
+        "question": "Thiruvalluvar College of Engineering and Technology, Vandavasi",
+        "answer": "Vandavasi,Private,NAAC,Engineering,Variable,-,http://www.tvcet.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb3",
+        "question": "V.S.B. Engineering College, Karur",
+        "answer": "Karur,Private,NAAC,Engineering,Variable,-,http://www.vsbec.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb4",
+        "question": "Aalim Muhammed Salegh College of Engineering, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://amscec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb5",
+        "question": "Akshaya College of Engineering and Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://akshaya.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb6",
+        "question": "Dhanalakshmi Srinivasan Engineering College, Perambalur",
+        "answer": "Perambalur,Private,NAAC,Engineering,Variable,-,https://www.dsengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb7",
+        "question": "Gnanamani College of Technology, Namakkal",
+        "answer": "Namakkal,Private,NAAC,Engineering,Variable,-,https://www.gct.org.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb8",
+        "question": "KGiSL Institute of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.kgist.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afb9",
+        "question": "Mahendra Institute of Engineering and Technology, Namakkal",
+        "answer": "Namakkal,Private,NAAC,Engineering,Variable,-,http://www.mahendra.info/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afba",
+        "question": "Mount Zion College of Engineering and Technology, Pudukkottai",
+        "answer": "Pudukkottai,Private,NAAC,Engineering,Variable,-,https://mzcet.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afbb",
+        "question": "Nandha Engineering College, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,https://www.nandhaengg.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afbc",
+        "question": "Oxford Engineering College, Trichy",
+        "answer": "Trichy,Private,NAAC,Engineering,Variable,-,http://www.oxfordtechnical.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afbd",
+        "question": "SNS College of Engineering, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.snsct.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afbe",
+        "question": "Sree Sowdambika College of Engineering, Aruppukottai",
+        "answer": "Aruppukottai,Private,NAAC,Engineering,Variable,-,http://www.sreesowdambikaengg.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afbf",
+        "question": "St. Michael College of Engineering and Technology, Kalayarkoil",
+        "answer": "Kalayarkoil,Private,NAAC,Engineering,Variable,-,http://www.stmichaelcollege.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc0",
+        "question": "Surya Engineering College, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,http://www.suryaengineering.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc1",
+        "question": "Thangavelu Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.thangavelu.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc2",
+        "question": "Valliammai Engineering College, Kanchipuram",
+        "answer": "Kanchipuram,Private,NAAC,Engineering,Variable,-,https://www.valliammai.co.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc3",
+        "question": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.vel-tech.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc4",
+        "question": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.veltech.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc5",
+        "question": "Vellamal Institute of Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://vandvart.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc6",
+        "question": "Vickram College of Engineering, Enathi",
+        "answer": "Enathi,Private,NAAC,Engineering,Variable,-,http://www.vickramce.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc7",
+        "question": "Vishnu Lakshmi College of Engineering and Technology, Kanyakumari",
+        "answer": "Kanyakumari,Private,NAAC,Engineering,Variable,-,http://www.vlcett.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc8",
+        "question": "A.V.C. College of Engineering, Mayiladuthurai",
+        "answer": "Mayiladuthurai,Private,NAAC,Engineering,Variable,-,http://www.avccollege.net/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afc9",
+        "question": "Arasu Engineering College, Kumbakonam",
+        "answer": "Kumbakonam,Private,NAAC,Engineering,Variable,-,https://www.arasuedu.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afca",
+        "question": "Chettinad College of Engineering and Technology, Karur",
+        "answer": "Karur,Private,NAAC,Engineering,Variable,-,http://chettinadtech.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afcb",
+        "question": "Jayaraj Annapackiam CSI College of Engineering, Nazareth",
+        "answer": "Nazareth,Private,NAAC,Engineering,Variable,-,http://www.jaec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afcc",
+        "question": "J.J. College of Engineering and Technology, Trichy",
+        "answer": "Trichy,Private,NAAC,Engineering,Variable,-,http://www.jjcet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afcd",
+        "question": "Jansons Institute of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.jit.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afce",
+        "question": "Karpaga Vinayaga College of Engineering and Technology, Chengalpattu",
+        "answer": "Chengalpattu,Private,NAAC,Engineering,Variable,-,http://www.kvcengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afcf",
+        "question": "K.S. Rangasamy College of Technology, Tiruchengode",
+        "answer": "Tiruchengode,Private,NAAC,Engineering,Variable,-,http://www.ksrct.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd0",
+        "question": "M. Kumarasamy College of Engineering, Karur",
+        "answer": "Karur,Private,NAAC,Engineering,Variable,-,http://www.mkce.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd1",
+        "question": "M.P. Nachimuthu M. Jaganathan Engineering College, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,http://www.mpnmjec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd2",
+        "question": "Mailam Engineering College, Villupuram",
+        "answer": "Villupuram,Private,NAAC,Engineering,Variable,-,http://www.mailamengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd3",
+        "question": "Maharaja Engineering College for Women, Perundurai",
+        "answer": "Perundurai,Private,NAAC,Engineering,Variable,-,http://www.maharaja.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd4",
+        "question": "Mahendra Institute of Engineering and Technology, Namakkal",
+        "answer": "Namakkal,Private,NAAC,Engineering,Variable,-,http://www.mahendra.info/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd5",
+        "question": "P.B. College of Engineering, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.pvpsiddhartha.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd6",
+        "question": "P.S.N.A. College of Engineering and Technology, Dindigul",
+        "answer": "Dindigul,Private,NAAC,Engineering,Variable,-,http://www.psna.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd7",
+        "question": "S.A. Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.saec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd8",
+        "question": "S.K.P. Engineering College, Thiruvannamalai",
+        "answer": "Thiruvannamalai,Private,NAAC,Engineering,Variable,-,http://www.skpecollege.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afd9",
+        "question": "Sree Krishna College of Engineering, Kanyakumari",
+        "answer": "Kanyakumari,Private,NAAC,Engineering,Variable,-,http://www.skec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afda",
+        "question": "St. Peter's Institute of Higher Education and Research, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.stpetersuniversity.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afdb",
+        "question": "T.J. Institute of Technology",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.tjit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afdc",
+        "question": "Annai Veilankanni's College of Engineering, Kanyakumari",
+        "answer": "Kanyakumari,Private,NAAC,Engineering,Variable,-,http://www.avce.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afdd",
+        "question": "Annamalaiar College of Engineering, Dharmapuri",
+        "answer": "Dharmapuri,Private,NAAC,Engineering,Variable,-,http://annamalaiar.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afde",
+        "question": "Asan Memorial College of Engineering and Technology, Chengalpattu",
+        "answer": "Chengalpattu,Private,NAAC,Engineering,Variable,-,https://www.asaneducation.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afdf",
+        "question": "Bharath Niketan Engineering College, Theni",
+        "answer": "Theni,Private,NAAC,Engineering,Variable,-,http://bharathniketan.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe0",
+        "question": "Bharathidasan Engineering College, Nattrampalli",
+        "answer": "Nattrampalli,Private,NAAC,Engineering,Variable,-,http://www.bharathidasan.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe1",
+        "question": "Bharathidasan Institute of Technology, Anna University, Trichy",
+        "answer": "Trichy,Public (Anna University),NAAC,Engineering,Variable,-,http://www.bitcampus.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe2",
+        "question": "Bharathiyar Institute of Engineering for Women, Salem",
+        "answer": "Salem,Private,NAAC,Engineering,Variable,-,http://bharathiyarwomenscollege.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe3",
+        "question": "Dr. N.G.P. Institute of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,https://www.drngpit.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe4",
+        "question": "Dr. Sivanthi Aditanar College of Engineering, Tiruchendur",
+        "answer": "Tiruchendur,Private,NAAC,Engineering,Variable,-,http://www.dsace.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe5",
+        "question": "Einstein College of Engineering",
+        "answer": "-,Private,NAAC,Engineering,Variable,-,https://www.einsteinec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe6",
+        "question": "G.G.R. College of Engineering, Vellore",
+        "answer": "Vellore,Private,NAAC,Engineering,Variable,-,http://www.grrengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe7",
+        "question": "Gnanamani College of Engineering, Namakkal",
+        "answer": "Namakkal,Private,NAAC,Engineering,Variable,-,http://www.gce.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe8",
+        "question": "Government College of Engineering, Bargur",
+        "answer": "Bargur,Public (Anna University),NAAC,Engineering,Variable,-,http://www.gcebargur.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afe9",
+        "question": "Government College of Engineering, Bodinayakanur",
+        "answer": "Bodinayakanur,Public (Anna University),NAAC,Engineering,Variable,-,http://gcebodu.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afea",
+        "question": "Government College of Engineering, Srirangam",
+        "answer": "Srirangam,Public (Anna University),NAAC,Engineering,Variable,-,http://gcesr.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afeb",
+        "question": "Hindustan Institute of Technology and Science, Padur",
+        "answer": "Padur,Private,NAAC,Engineering,Variable,-,https://hindustanuniv.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afec",
+        "question": "Infant Jesus College of Engineering and Technology, Thoothukudi",
+        "answer": "Thoothukudi,Private,NAAC,Engineering,Variable,-,http://ijcet.org.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afed",
+        "question": "Jairam Arts and Science College, Salem",
+        "answer": "Salem,Private,NAAC,Engineering,Variable,-,http://www.jascengg.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afee",
+        "question": "James College of Engineering and Technology",
+        "answer": "-,Private,NAAC,Engineering,Variable,-,http://www.jcet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afef",
+        "question": "Jaya Suriya Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.jsenggcollege.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff0",
+        "question": "Jayam College of Engineering and Technology, Dharmapuri",
+        "answer": "Dharmapuri,Private,NAAC,Engineering,Variable,-,http://www.jcet.org.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff1",
+        "question": "K.L.N. College of Engineering, Sivagangai",
+        "answer": "Sivagangai,Private,NAAC,Engineering,Variable,-,http://www.klncit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff2",
+        "question": "Kamban Engineering College, Tiruvannamalai",
+        "answer": "Tiruvannamalai,Private,NAAC,Engineering,Variable,-,http://www.kambanengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff3",
+        "question": "Karpaga Vinayaga College of Engineering and Technology, Chengalpattu",
+        "answer": "Chengalpattu,Private,NAAC,Engineering,Variable,-,http://www.kvcengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff4",
+        "question": "KGISL Institute of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.kgist.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff5",
+        "question": "Kings College of Engineering, Pudukkottai",
+        "answer": "Pudukkottai,Private,NAAC,Engineering,Variable,-,http://kingsindia.net/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff6",
+        "question": "Kongu Arts and Science College, Karur",
+        "answer": "Karur,Private,NAAC,Engineering,Variable,-,http://www.kasc.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff7",
+        "question": "Krishnasamy College of Science, Arts & Management for Women, Cuddalore",
+        "answer": "Cuddalore,Private,NAAC,Engineering,Variable,-,http://www.kcswm.org.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff8",
+        "question": "Kumaraguru College of Liberal Arts and Science",
+        "answer": "-,Private,NAAC,Engineering,Variable,-,https://www.kclas.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aff9",
+        "question": "Loyola-ICAM College of Engineering and Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.licet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5affa",
+        "question": "Maharaja Engineering College, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.maharaja.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5affb",
+        "question": "Maha Barathi Engineering College, Kallakurichi",
+        "answer": "Kallakurichi,Private,NAAC,Engineering,Variable,-,http://mahaenggcollege.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5affc",
+        "question": "Mohamed Sathak Engineering College, Kilakarai",
+        "answer": "Kilakarai,Private,NAAC,Engineering,Variable,-,http://www.msec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5affd",
+        "question": "Mother Teresa Institute of Science and Technology, Pudukkottai",
+        "answer": "Pudukkottai,Private,NAAC,Engineering,Variable,-,http://www.motherteresasite.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5affe",
+        "question": "Nandha Central School of Business and Technology, Erode",
+        "answer": "Erode,Private,NAAC,Engineering,Variable,-,http://www.ncsbt.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5afff",
+        "question": "Nehru College of Management, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.nehrucolleges.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b000",
+        "question": "PABCET - Padmabhusan Dr. B. Sengaliappan Engineering College, Dharmapuri",
+        "answer": "Dharmapuri,Private,NAAC,Engineering,Variable,-,http://www.pabcet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b001",
+        "question": "Pannaikadu Veerammal Paramasivam College of Engineering and Technology, Dindigul",
+        "answer": "Dindigul,Private,NAAC,Engineering,Variable,-,http://www.pvpct.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b002",
+        "question": "Park College of Engineering and Technology",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.pcet.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b003",
+        "question": "Pavendar Bharathidasan College of Engineering and Technology, Tiruchirappalli",
+        "answer": "Tiruchirappalli,Private,NAAC,Engineering,Variable,-,http://www.pbcet.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b004",
+        "question": "Pet Engineering College, Vallioor",
+        "answer": "Vallioor,Private,NAAC,Engineering,Variable,-,http://www.petengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b005",
+        "question": "PGP College of Engineering and Technology, Namakkal",
+        "answer": "Namakkal,Private,NAAC,Engineering,Variable,-,http://www.pgpedu.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b006",
+        "question": "RVS College of Engineering and Technology, Dindigul",
+        "answer": "Dindigul,Private,NAAC,Engineering,Variable,-,http://rvsgroup.net/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b007",
+        "question": "S.A. Polytechnic College, Salem",
+        "answer": "Salem,Public (Anna University),NAAC,Engineering,Variable,-,http://www.saninternational.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b008",
+        "question": "Sams College of Engineering and Technology, Salem",
+        "answer": "Salem,Private,NAAC,Engineering,Variable,-,http://www.samsengineering.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b009",
+        "question": "San International College of Arts and Science, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.sicas.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b00a",
+        "question": "Saranathan College of Engineering, Tiruchirappalli",
+        "answer": "Tiruchirappalli,Private,NAAC,Engineering,Variable,-,http://www.saranathan.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b00b",
+        "question": "Sardar Raja College of Engineering, Tirunelveli",
+        "answer": "Tirunelveli,Private,NAAC,Engineering,Variable,-,http://www.srcollege.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b00c",
+        "question": "Sasi Creative School of Architecture",
+        "answer": "-,Private,NAAC,Architecture,Variable,-,http://www.sasicschool.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b00d",
+        "question": "Sathyabama Institute of Science and Technology, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,https://www.sathyabama.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b00e",
+        "question": "Saveetha Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.saveetha.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b00f",
+        "question": "Sethu Institute of Technology, Kariapatti",
+        "answer": "Kariapatti,Private,NAAC,Engineering,Variable,-,http://sethu.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b010",
+        "question": "Shanmuganathan Engineering College, Pudukkottai",
+        "answer": "Pudukkottai,Private,NAAC,Engineering,Variable,-,http://shanmuganathanenggcollege.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b011",
+        "question": "Shreenivasa Engineering College, Dharmapuri",
+        "answer": "Dharmapuri,Private,NAAC,Engineering,Variable,-,http://www.shreenivasaengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b012",
+        "question": "SNS College of Technology, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.snsct.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b013",
+        "question": "Sri Krishna Polytechnic College, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.skpc.co.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b014",
+        "question": "Sri Ramakrishna Engineering College, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.srec.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b015",
+        "question": "Sri Sairam Engineering College, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.sairamit.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b016",
+        "question": "St. Joseph's College of Engineering",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.stjosephs.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b017",
+        "question": "St. Xavier's Catholic College of Engineering, Nagercoil",
+        "answer": "Nagercoil,Private,NAAC,Engineering,Variable,-,http://www.stxavierscatholiccollege.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b018",
+        "question": "Syed Ammal Engineering College, Ramanathapuram",
+        "answer": "Ramanathapuram,Private,NAAC,Engineering,Variable,-,http://www.syedammaltrust.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b019",
+        "question": "T.J. Sivananda College of Engineering, Madurai",
+        "answer": "Madurai,Private,NAAC,Engineering,Variable,-,http://tjsce.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b01a",
+        "question": "Tamilnadu College of Engineering, Coimbatore",
+        "answer": "Coimbatore,Private,NAAC,Engineering,Variable,-,http://www.tnce.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b01b",
+        "question": "Thanthai Periyar Government Institute of Technology, Vellore",
+        "answer": "Vellore,Public (Anna University),NAAC,Engineering,Variable,-,http://www.tpt.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b01c",
+        "question": "Theni Kammavar Sangam College of Technology, Theni",
+        "answer": "Theni,Private,NAAC,Engineering,Variable,-,http://www.tkscet.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b01d",
+        "question": "Thirumalai Engineering College, Kanchipuram",
+        "answer": "Kanchipuram,Private,NAAC,Engineering,Variable,-,http://www.tec-edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b01e",
+        "question": "Thiruvalluvar College of Engineering and Technology, Vandavasi",
+        "answer": "Vandavasi,Private,NAAC,Engineering,Variable,-,http://www.tpt.edu.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b01f",
+        "question": "Valliammai Engineering College, Kancheepuram",
+        "answer": "Kancheepuram,Private,NAAC,Engineering,Variable,-,http://www.velammaltrust.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b020",
+        "question": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+        "answer": "Chennai,Private,NAAC 'A' grade,Undergraduate, postgraduate, and doctoral programs in various disciplines including engineering, management, law, media technology, and humanities,Varies depending on program and category,Not available,https://www.veltech.edu.in/ "
+    },
+    {
+        "_id": "66d053be68b1c87862f5b021",
+        "question": "Velammal College of Engineering and Technology, Madurai",
+        "answer": "Madurai,Private,NAAC,Engineering,Variable,-,http://www.velammal.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b022",
+        "question": "Vels Institute of Science, Technology & Advanced Studies (VISTAS), Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.velsuniv.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b023",
+        "question": "Vidyaa Vikas College of Engineering and Technology, Tiruchengode",
+        "answer": "Tiruchengode,Private,NAAC,Engineering,Variable,-,http://www.vidyaavikas.org/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b024",
+        "question": "Vidyasagar College of Engineering, Virudhunagar",
+        "answer": "Virudhunagar,Private,NAAC,Engineering,Variable,-,http://www.vidyasagarengg.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b025",
+        "question": "Vijaya Institute of Technology for Women, Chennai",
+        "answer": "Chennai,Private,NAAC,Engineering,Variable,-,http://www.vijayagroup.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b026",
+        "question": "Vivekanandha College of Engineering for Women, Namakkal",
+        "answer": "Namakkal,Private,NAAC,Engineering,Variable,-,http://www.vivekanandha.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b027",
+        "question": "Vivekanandha Institute of Engineering and Technology for Women, Tiruchengode",
+        "answer": "Tiruchengode,Private,NAAC,Engineering,Variable,-,http://www.vivekanandha.ac.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b028",
+        "question": "VRS College of Engineering and Technology, Villupuram",
+        "answer": "Villupuram,Private,NAAC,Engineering,Variable,-,http://www.vrscet.in/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b029",
+        "question": "VSB Engineering College, Karur",
+        "answer": "Karur,Private,NAAC,Engineering,Variable,-,http://www.vsbec.com/"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b02a",
+        "question": "How do I reset my password?",
+        "answer": "You can reset your password by clicking on the 'Forgot Password' link."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b02b",
+        "question": "What's the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b02c",
+        "question": "How can I contact customer support?",
+        "answer": "You can reach our customer support team at support@example.com."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b02d",
+        "question": "Can you recommend a good restaurant?",
+        "answer": "Sure! There's a great Italian restaurant called 'La Bella Vita' nearby."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b02e",
+        "question": "What's the meaning of life?",
+        "answer": "The meaning of life is subjective and varies from person to person."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b02f",
+        "question": "I'm feeling sad. What should I do?",
+        "answer": "It's important to take care of yourself. Try doing something you enjoy or talking to a friend."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b030",
+        "question": "Where can I find the nearest ATM?",
+        "answer": "There's an ATM located at the corner of Main Street and Maple Avenue."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b031",
+        "question": "How do I update my billing information?",
+        "answer": "You can update your billing information by logging into your account and selecting the 'Billing' section."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b032",
+        "question": "What's the best way to stay fit?",
+        "answer": "Regular exercise and a balanced diet are key to staying fit and healthy."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b033",
+        "question": "What's the time in Tokyo right now?",
+        "answer": "It's currently 10:30 AM in Tokyo."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b034",
+        "question": "Can you help me with my math homework?",
+        "answer": "Of course! What problem do you need help with?"
+    },
+    {
+        "_id": "66d053be68b1c87862f5b035",
+        "question": "What's the largest ocean in the world?",
+        "answer": "The largest ocean in the world is the Pacific Ocean."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b036",
+        "question": "How do I change my profile picture?",
+        "answer": "You can change your profile picture by going to your account settings and selecting 'Edit Profile'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b037",
+        "question": "What's the difference between a crocodile and an alligator?",
+        "answer": "Crocodiles have longer, V-shaped snouts, while alligators have shorter, U-shaped snouts."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b038",
+        "question": "What's the square root of 144?",
+        "answer": "The square root of 144 is 12."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b039",
+        "question": "How do I check my email on my phone?",
+        "answer": "You can check your email by opening the email app on your phone and entering your email address and password."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b03a",
+        "question": "What's the population of New York City?",
+        "answer": "As of the latest estimate, the population of New York City is approximately 8.3 million."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b03b",
+        "question": "What's the best programming language for beginners?",
+        "answer": "Python is often recommended as a good programming language for beginners due to its simplicity and versatility."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b03c",
+        "question": "Where can I buy concert tickets?",
+        "answer": "You can buy concert tickets online through ticketing websites or at the venue's box office."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b03d",
+        "question": "What's the best way to learn a new language?",
+        "answer": "Immersing yourself in the language through practice, conversation, and exposure to media in that language can be very effective."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b03e",
+        "question": "What's the capital of Australia?",
+        "answer": "The capital of Australia is Canberra."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b03f",
+        "question": "What's the meaning of 'carpe diem'?",
+        "answer": "'Carpe diem' is a Latin phrase that means 'seize the day' or 'enjoy the present moment'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b040",
+        "question": "What's the temperature in London right now?",
+        "answer": "It's currently 55\u00b0F in London."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b041",
+        "question": "What's the best way to cook pasta?",
+        "answer": "Boiling pasta in salted water until it's al dente is a common method for cooking pasta."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b042",
+        "question": "How do I change my password?",
+        "answer": "You can change your password by going to your account settings and selecting 'Change Password'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b043",
+        "question": "What's the capital of Japan?",
+        "answer": "The capital of Japan is Tokyo."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b044",
+        "question": "Where can I find a good cup of coffee?",
+        "answer": "There's a cozy caf\u00e9 called 'Java Junction' downtown that serves excellent coffee."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b045",
+        "question": "What's the tallest mountain in the world?",
+        "answer": "Mount Everest is the tallest mountain in the world, standing at 29,032 feet above sea level."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b046",
+        "question": "What's the best way to relax after a long day?",
+        "answer": "Different things work for different people, but activities like reading, taking a bath, or listening to music can help you unwind."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b047",
+        "question": "What's the capital of Brazil?",
+        "answer": "The capital of Brazil is Bras\u00edlia."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b048",
+        "question": "What's the square root of 100?",
+        "answer": "The square root of 100 is 10."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b049",
+        "question": "Where can I find the best pizza in town?",
+        "answer": "Many locals recommend 'Tony's Pizzeria' for the best pizza in town."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b04a",
+        "question": "How do I set up automatic bill payments?",
+        "answer": "You can set up automatic bill payments through your bank's online banking system or by contacting your service providers."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b04b",
+        "question": "What's the population of China?",
+        "answer": "As of the latest estimate, the population of China is over 1.4 billion."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b04c",
+        "question": "What's the capital of Italy?",
+        "answer": "The capital of Italy is Rome."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b04d",
+        "question": "What's the meaning of the word 'serendipity'?",
+        "answer": "'Serendipity' refers to the occurrence of events by chance in a happy or beneficial way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b04e",
+        "question": "What's the best way to study for exams?",
+        "answer": "Effective study techniques include breaking material into smaller chunks, using mnemonic devices, and practicing with past exams."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b04f",
+        "question": "How do I find my phone if it's lost?",
+        "answer": "You can try using a 'Find My Phone' app if you have one installed, or contact your service provider for assistance."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b050",
+        "question": "What's the capital of Spain?",
+        "answer": "The capital of Spain is Madrid."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b051",
+        "question": "What's the temperature in Paris right now?",
+        "answer": "It's currently 60\u00b0F in Paris."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b052",
+        "question": "What's the largest desert in the world?",
+        "answer": "The largest desert in the world is the Sahara Desert."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b053",
+        "question": "How do I book a flight online?",
+        "answer": "You can book a flight online through various travel websites or directly through the airline's website."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b054",
+        "question": "What's the population of India?",
+        "answer": "As of the latest estimate, the population of India is over 1.3 billion."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b055",
+        "question": "What's the capital of Canada?",
+        "answer": "The capital of Canada is Ottawa."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b056",
+        "question": "What is the best way to make friends?",
+        "answer": "Joining clubs, volunteering, or attending social events are great ways to meet new people and make friends."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b057",
+        "question": "How can I learn to play the guitar?",
+        "answer": "Taking lessons, practicing regularly, and using online resources like tutorials and videos can help you learn to play the guitar."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b058",
+        "question": "What are some good books to read?",
+        "answer": "There are many great books out there! It depends on your interests. Some popular choices include 'To Kill a Mockingbird', '1984', and 'Pride and Prejudice'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b059",
+        "question": "How do I get started with meditation?",
+        "answer": "There are many guided meditation apps and online resources available. You can start with short sessions and gradually increase the duration as you become more comfortable."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b05a",
+        "question": "What is the meaning of the word 'ubiquitous'?",
+        "answer": "'Ubiquitous' means existing or being found everywhere."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b05b",
+        "question": "What is the capital of Germany?",
+        "answer": "The capital of Germany is Berlin."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b05c",
+        "question": "What is the best way to learn a new skill?",
+        "answer": "Practice, consistency, and seeking feedback are crucial for mastering a new skill."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b05d",
+        "question": "How do I start a business?",
+        "answer": "Creating a business plan, researching the market, and securing funding are important steps in starting a business."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b05e",
+        "question": "What are some tips for staying organized?",
+        "answer": "Using a planner, prioritizing tasks, and decluttering your space can help you stay organized."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b05f",
+        "question": "What is the best way to manage stress?",
+        "answer": "Exercise, mindfulness techniques, and spending time in nature can be effective in managing stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b060",
+        "question": "What is the meaning of the word 'ephemeral'?",
+        "answer": "'Ephemeral' means lasting for a very short time."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b061",
+        "question": "What is the capital of China?",
+        "answer": "The capital of China is Beijing."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b062",
+        "question": "How can I improve my writing skills?",
+        "answer": "Reading widely, practicing regularly, and seeking feedback from others can help you improve your writing skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b063",
+        "question": "What are some good places to travel?",
+        "answer": "There are so many beautiful places to explore! Consider visiting the Grand Canyon, the Eiffel Tower, or the Great Wall of China."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b064",
+        "question": "What is the meaning of the word 'serene'?",
+        "answer": "'Serene' means calm, peaceful, and tranquil."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b065",
+        "question": "What is the capital of South Africa?",
+        "answer": "The capital of South Africa is Pretoria."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b066",
+        "question": "How do I improve my public speaking skills?",
+        "answer": "Practice, preparation, and focusing on your audience can help you improve your public speaking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b067",
+        "question": "What are some good ways to save money?",
+        "answer": "Creating a budget, identifying areas where you can cut back on spending, and looking for discounts or deals can help you save money."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b068",
+        "question": "What is the meaning of the word 'quixotic'?",
+        "answer": "'Quixotic' means idealistic or romantic, often in a way that is impractical or unrealistic."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b069",
+        "question": "What is the capital of Russia?",
+        "answer": "The capital of Russia is Moscow."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b06a",
+        "question": "How do I build healthy relationships?",
+        "answer": "Communication, empathy, respect, and shared values are essential for building healthy relationships."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b06b",
+        "question": "What are some good resources for learning about history?",
+        "answer": "Historical books, documentaries, museums, and online archives are great resources for learning about history."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b06c",
+        "question": "What is the meaning of the word 'nostalgia'?",
+        "answer": "'Nostalgia' refers to a sentimental longing or wistful affection for the past."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b06d",
+        "question": "What is the capital of Mexico?",
+        "answer": "The capital of Mexico is Mexico City."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b06e",
+        "question": "How can I improve my cooking skills?",
+        "answer": "Taking cooking classes, experimenting with recipes, and practicing regularly can help you improve your cooking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b06f",
+        "question": "What are some good movies to watch?",
+        "answer": "There are many great films out there! It depends on your genre preference. Some popular choices include 'The Shawshank Redemption', 'The Godfather', and 'Spirited Away'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b070",
+        "question": "What is the meaning of the word 'conviviality'?",
+        "answer": "'Conviviality' means a festive and enjoyable atmosphere, especially when shared with others."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b071",
+        "question": "What is the capital of Canada?",
+        "answer": "The capital of Canada is Ottawa."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b072",
+        "question": "How can I improve my sleep quality?",
+        "answer": "Establishing a consistent sleep schedule, creating a relaxing bedtime routine, and optimizing your sleep environment can help improve sleep quality."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b073",
+        "question": "What are some good tips for staying healthy?",
+        "answer": "Eating a balanced diet, exercising regularly, managing stress, and getting enough sleep are essential for overall health."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b074",
+        "question": "What is the meaning of the word 'serendipitous'?",
+        "answer": "'Serendipitous' means occurring or discovered by chance in a happy or beneficial way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b075",
+        "question": "What is the capital of the United States?",
+        "answer": "The capital of the United States is Washington, D.C."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b076",
+        "question": "How can I improve my communication skills?",
+        "answer": "Active listening, clear articulation, and being empathetic can help improve your communication skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b077",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b078",
+        "question": "What is the meaning of the word 'eerie'?",
+        "answer": "'Eerie' means strange and frightening, especially in an unsettling way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b079",
+        "question": "What is the capital of India?",
+        "answer": "The capital of India is New Delhi."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b07a",
+        "question": "How can I improve my memory?",
+        "answer": "Engaging in mental exercises, practicing mindfulness, and getting enough sleep can help improve your memory."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b07b",
+        "question": "What are some good ways to relax and de-stress?",
+        "answer": "Meditation, yoga, spending time in nature, and listening to calming music can help you relax and de-stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b07c",
+        "question": "What is the meaning of the word 'jovial'?",
+        "answer": "'Jovial' means cheerful and good-humored."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b07d",
+        "question": "What is the capital of Australia?",
+        "answer": "The capital of Australia is Canberra."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b07e",
+        "question": "How can I improve my time management skills?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help improve your time management skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b07f",
+        "question": "What are some good ways to stay motivated?",
+        "answer": "Setting realistic goals, celebrating milestones, and surrounding yourself with positive influences can help you stay motivated."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b080",
+        "question": "What is the meaning of the word 'melancholy'?",
+        "answer": "'Melancholy' refers to a feeling of pensive sadness, often with a hint of longing or wistfulness."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b081",
+        "question": "What is the capital of Japan?",
+        "answer": "The capital of Japan is Tokyo."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b082",
+        "question": "How can I improve my problem-solving skills?",
+        "answer": "Breaking down problems into smaller steps, exploring different solutions, and seeking feedback can help improve your problem-solving skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b083",
+        "question": "What are some good ways to stay active and fit?",
+        "answer": "Engaging in regular exercise, eating a healthy diet, and getting enough sleep are essential for staying active and fit."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b084",
+        "question": "What is the meaning of the word 'ironic'?",
+        "answer": "'Ironic' means a situation that is the opposite of what was expected or intended."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b085",
+        "question": "What is the capital of Brazil?",
+        "answer": "The capital of Brazil is Bras\u00edlia."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b086",
+        "question": "How can I improve my social skills?",
+        "answer": "Being a good listener, practicing empathy, and being respectful of others can help improve your social skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b087",
+        "question": "What are some good ways to give back to the community?",
+        "answer": "Volunteering, donating to charities, and supporting local businesses are great ways to give back to the community."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b088",
+        "question": "What is the meaning of the word 'serene'?",
+        "answer": "'Serene' means calm, peaceful, and tranquil."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b089",
+        "question": "What is the capital of Italy?",
+        "answer": "The capital of Italy is Rome."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b08a",
+        "question": "How can I improve my creativity?",
+        "answer": "Engaging in activities that stimulate your imagination, exploring new experiences, and practicing regularly can help improve your creativity."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b08b",
+        "question": "What are some good ways to learn a new language?",
+        "answer": "Immersion, language exchange programs, and online resources like apps and websites can help you learn a new language."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b08c",
+        "question": "What is the meaning of the word 'exuberant'?",
+        "answer": "'Exuberant' means full of energy, enthusiasm, and excitement."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b08d",
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b08e",
+        "question": "How can I improve my public speaking skills?",
+        "answer": "Practice, preparation, and focusing on your audience can help you improve your public speaking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b08f",
+        "question": "What are some good ways to manage time effectively?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help you manage time effectively."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b090",
+        "question": "What is the meaning of the word 'nostalgic'?",
+        "answer": "'Nostalgic' means feeling a sentimental longing or wistful affection for the past."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b091",
+        "question": "What is the capital of Spain?",
+        "answer": "The capital of Spain is Madrid."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b092",
+        "question": "How can I improve my problem-solving skills?",
+        "answer": "Breaking down problems into smaller steps, exploring different solutions, and seeking feedback can help improve your problem-solving skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b093",
+        "question": "What are some good ways to stay organized?",
+        "answer": "Using a planner, prioritizing tasks, and decluttering your space can help you stay organized."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b094",
+        "question": "What is the meaning of the word 'serendipity'?",
+        "answer": "'Serendipity' refers to the occurrence of events by chance in a happy or beneficial way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b095",
+        "question": "What is the capital of Germany?",
+        "answer": "The capital of Germany is Berlin."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b096",
+        "question": "How can I improve my cooking skills?",
+        "answer": "Taking cooking classes, experimenting with recipes, and practicing regularly can help you improve your cooking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b097",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b098",
+        "question": "What is the meaning of the word 'enigmatic'?",
+        "answer": "'Enigmatic' means mysterious, puzzling, or difficult to understand."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b099",
+        "question": "What is the capital of China?",
+        "answer": "The capital of China is Beijing."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b09a",
+        "question": "How can I improve my writing skills?",
+        "answer": "Reading widely, practicing regularly, and seeking feedback from others can help you improve your writing skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b09b",
+        "question": "What are some good places to travel?",
+        "answer": "There are so many beautiful places to explore! Consider visiting the Grand Canyon, the Eiffel Tower, or the Great Wall of China."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b09c",
+        "question": "What is the meaning of the word 'eclectic'?",
+        "answer": "'Eclectic' means deriving from a variety of sources, or diverse in nature."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b09d",
+        "question": "What is the capital of Canada?",
+        "answer": "The capital of Canada is Ottawa."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b09e",
+        "question": "How can I improve my sleep quality?",
+        "answer": "Establishing a consistent sleep schedule, creating a relaxing bedtime routine, and optimizing your sleep environment can help improve sleep quality."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b09f",
+        "question": "What are some good tips for staying healthy?",
+        "answer": "Eating a balanced diet, exercising regularly, managing stress, and getting enough sleep are essential for overall health."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a0",
+        "question": "What is the meaning of the word 'whimsical'?",
+        "answer": "'Whimsical' means playfully quaint or fanciful, often in an unpredictable way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a1",
+        "question": "What is the capital of the United States?",
+        "answer": "The capital of the United States is Washington, D.C."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a2",
+        "question": "How can I improve my communication skills?",
+        "answer": "Active listening, clear articulation, and being empathetic can help improve your communication skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a3",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a4",
+        "question": "What is the meaning of the word 'inquisitive'?",
+        "answer": "'Inquisitive' means eager to know or learn something."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a5",
+        "question": "What is the capital of Russia?",
+        "answer": "The capital of Russia is Moscow."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a6",
+        "question": "How can I improve my memory?",
+        "answer": "Engaging in mental exercises, practicing mindfulness, and getting enough sleep can help improve your memory."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a7",
+        "question": "What are some good ways to relax and de-stress?",
+        "answer": "Meditation, yoga, spending time in nature, and listening to calming music can help you relax and de-stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a8",
+        "question": "What is the meaning of the word 'tranquil'?",
+        "answer": "'Tranquil' means peaceful, calm, and serene."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0a9",
+        "question": "What is the capital of Mexico?",
+        "answer": "The capital of Mexico is Mexico City."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0aa",
+        "question": "How can I improve my time management skills?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help improve your time management skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ab",
+        "question": "What are some good ways to stay motivated?",
+        "answer": "Setting realistic goals, celebrating milestones, and surrounding yourself with positive influences can help you stay motivated."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ac",
+        "question": "What is the meaning of the word 'unassuming'?",
+        "answer": "'Unassuming' means modest and unpretentious."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ad",
+        "question": "What is the capital of Australia?",
+        "answer": "The capital of Australia is Canberra."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ae",
+        "question": "How can I improve my social skills?",
+        "answer": "Being a good listener, practicing empathy, and being respectful of others can help improve your social skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0af",
+        "question": "What are some good ways to give back to the community?",
+        "answer": "Volunteering, donating to charities, and supporting local businesses are great ways to give back to the community."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b0",
+        "question": "What is the meaning of the word 'ecstatic'?",
+        "answer": "'Ecstatic' means feeling overwhelming happiness or joy."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b1",
+        "question": "What is the capital of Italy?",
+        "answer": "The capital of Italy is Rome."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b2",
+        "question": "How can I improve my creativity?",
+        "answer": "Engaging in activities that stimulate your imagination, exploring new experiences, and practicing regularly can help improve your creativity."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b3",
+        "question": "What are some good ways to learn a new language?",
+        "answer": "Immersion, language exchange programs, and online resources like apps and websites can help you learn a new language."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b4",
+        "question": "What is the meaning of the word 'euphoric'?",
+        "answer": "'Euphoric' means feeling intense happiness and excitement."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b5",
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b6",
+        "question": "How can I improve my public speaking skills?",
+        "answer": "Practice, preparation, and focusing on your audience can help you improve your public speaking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b7",
+        "question": "What are some good ways to manage time effectively?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help you manage time effectively."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b8",
+        "question": "What is the meaning of the word 'introspective'?",
+        "answer": "'Introspective' means looking inwards at one's own thoughts and feelings."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0b9",
+        "question": "What is the capital of Spain?",
+        "answer": "The capital of Spain is Madrid."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ba",
+        "question": "How can I improve my problem-solving skills?",
+        "answer": "Breaking down problems into smaller steps, exploring different solutions, and seeking feedback can help improve your problem-solving skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0bb",
+        "question": "What are some good ways to stay organized?",
+        "answer": "Using a planner, prioritizing tasks, and decluttering your space can help you stay organized."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0bc",
+        "question": "What is the meaning of the word 'contemplative'?",
+        "answer": "'Contemplative' means thoughtful, reflective, and meditative."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0bd",
+        "question": "What is the capital of Germany?",
+        "answer": "The capital of Germany is Berlin."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0be",
+        "question": "How can I improve my cooking skills?",
+        "answer": "Taking cooking classes, experimenting with recipes, and practicing regularly can help you improve your cooking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0bf",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c0",
+        "question": "What is the meaning of the word 'quixotic'?",
+        "answer": "'Quixotic' means idealistic or romantic, often in a way that is impractical or unrealistic."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c1",
+        "question": "What is the capital of China?",
+        "answer": "The capital of China is Beijing."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c2",
+        "question": "How can I improve my writing skills?",
+        "answer": "Reading widely, practicing regularly, and seeking feedback from others can help you improve your writing skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c3",
+        "question": "What are some good places to travel?",
+        "answer": "There are so many beautiful places to explore! Consider visiting the Grand Canyon, the Eiffel Tower, or the Great Wall of China."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c4",
+        "question": "What is the meaning of the word 'eloquent'?",
+        "answer": "'Eloquent' means fluent and persuasive in speaking or writing."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c5",
+        "question": "What is the capital of Canada?",
+        "answer": "The capital of Canada is Ottawa."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c6",
+        "question": "How can I improve my sleep quality?",
+        "answer": "Establishing a consistent sleep schedule, creating a relaxing bedtime routine, and optimizing your sleep environment can help improve sleep quality."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c7",
+        "question": "What are some good tips for staying healthy?",
+        "answer": "Eating a balanced diet, exercising regularly, managing stress, and getting enough sleep are essential for overall health."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c8",
+        "question": "What is the meaning of the word 'melancholic'?",
+        "answer": "'Melancholic' means characterized by or expressing sadness, often in a thoughtful or pensive way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0c9",
+        "question": "What is the capital of the United States?",
+        "answer": "The capital of the United States is Washington, D.C."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ca",
+        "question": "How can I improve my communication skills?",
+        "answer": "Active listening, clear articulation, and being empathetic can help improve your communication skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0cb",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0cc",
+        "question": "What is the meaning of the word 'affable'?",
+        "answer": "'Affable' means friendly, approachable, and easy to talk to."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0cd",
+        "question": "What is the capital of Russia?",
+        "answer": "The capital of Russia is Moscow."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ce",
+        "question": "How can I improve my memory?",
+        "answer": "Engaging in mental exercises, practicing mindfulness, and getting enough sleep can help improve your memory."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0cf",
+        "question": "What are some good ways to relax and de-stress?",
+        "answer": "Meditation, yoga, spending time in nature, and listening to calming music can help you relax and de-stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d0",
+        "question": "What is the meaning of the word 'laconic'?",
+        "answer": "'Laconic' means using few words, especially in a way that is concise and to the point."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d1",
+        "question": "What is the capital of Mexico?",
+        "answer": "The capital of Mexico is Mexico City."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d2",
+        "question": "How can I improve my time management skills?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help improve your time management skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d3",
+        "question": "What are some good ways to stay motivated?",
+        "answer": "Setting realistic goals, celebrating milestones, and surrounding yourself with positive influences can help you stay motivated."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d4",
+        "question": "What is the meaning of the word 'intriguing'?",
+        "answer": "'Intriguing' means arousing curiosity or interest."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d5",
+        "question": "What is the capital of Australia?",
+        "answer": "The capital of Australia is Canberra."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d6",
+        "question": "How can I improve my social skills?",
+        "answer": "Being a good listener, practicing empathy, and being respectful of others can help improve your social skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d7",
+        "question": "What are some good ways to give back to the community?",
+        "answer": "Volunteering, donating to charities, and supporting local businesses are great ways to give back to the community."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d8",
+        "question": "What is the meaning of the word 'exemplary'?",
+        "answer": "'Exemplary' means serving as a model or example to be imitated."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0d9",
+        "question": "What is the capital of Italy?",
+        "answer": "The capital of Italy is Rome."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0da",
+        "question": "How can I improve my creativity?",
+        "answer": "Engaging in activities that stimulate your imagination, exploring new experiences, and practicing regularly can help improve your creativity."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0db",
+        "question": "What are some good ways to learn a new language?",
+        "answer": "Immersion, language exchange programs, and online resources like apps and websites can help you learn a new language."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0dc",
+        "question": "What is the meaning of the word 'perplexing'?",
+        "answer": "'Perplexing' means causing confusion or bewilderment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0dd",
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0de",
+        "question": "How can I improve my public speaking skills?",
+        "answer": "Practice, preparation, and focusing on your audience can help you improve your public speaking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0df",
+        "question": "What are some good ways to manage time effectively?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help you manage time effectively."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e0",
+        "question": "What is the meaning of the word 'unassuming'?",
+        "answer": "'Unassuming' means modest and unpretentious."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e1",
+        "question": "What is the capital of Spain?",
+        "answer": "The capital of Spain is Madrid."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e2",
+        "question": "How can I improve my problem-solving skills?",
+        "answer": "Breaking down problems into smaller steps, exploring different solutions, and seeking feedback can help improve your problem-solving skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e3",
+        "question": "What are some good ways to stay organized?",
+        "answer": "Using a planner, prioritizing tasks, and decluttering your space can help you stay organized."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e4",
+        "question": "What is the meaning of the word 'intimate'?",
+        "answer": "'Intimate' means characterized by close personal connection, familiarity, or knowledge."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e5",
+        "question": "What is the capital of Germany?",
+        "answer": "The capital of Germany is Berlin."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e6",
+        "question": "How can I improve my cooking skills?",
+        "answer": "Taking cooking classes, experimenting with recipes, and practicing regularly can help you improve your cooking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e7",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e8",
+        "question": "What is the meaning of the word 'whimsical'?",
+        "answer": "'Whimsical' means playfully quaint or fanciful, often in an unpredictable way."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0e9",
+        "question": "What is the capital of China?",
+        "answer": "The capital of China is Beijing."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ea",
+        "question": "How can I improve my writing skills?",
+        "answer": "Reading widely, practicing regularly, and seeking feedback from others can help you improve your writing skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0eb",
+        "question": "What are some good places to travel?",
+        "answer": "There are so many beautiful places to explore! Consider visiting the Grand Canyon, the Eiffel Tower, or the Great Wall of China."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ec",
+        "question": "What is the meaning of the word 'invaluable'?",
+        "answer": "'Invaluable' means extremely useful or important."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ed",
+        "question": "What is the capital of Canada?",
+        "answer": "The capital of Canada is Ottawa."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ee",
+        "question": "How can I improve my sleep quality?",
+        "answer": "Establishing a consistent sleep schedule, creating a relaxing bedtime routine, and optimizing your sleep environment can help improve sleep quality."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ef",
+        "question": "What are some good tips for staying healthy?",
+        "answer": "Eating a balanced diet, exercising regularly, managing stress, and getting enough sleep are essential for overall health."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f0",
+        "question": "What is the meaning of the word 'compelling'?",
+        "answer": "'Compelling' means captivating, intriguing, or irresistible."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f1",
+        "question": "What is the capital of the United States?",
+        "answer": "The capital of the United States is Washington, D.C."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f2",
+        "question": "How can I improve my communication skills?",
+        "answer": "Active listening, clear articulation, and being empathetic can help improve your communication skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f3",
+        "question": "What are some good books to read about personal growth?",
+        "answer": "There are many inspiring books on personal growth! Some popular choices include 'Atomic Habits', 'The 7 Habits of Highly Effective People', and 'Daring Greatly'."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f4",
+        "question": "What is the meaning of the word 'thoughtful'?",
+        "answer": "'Thoughtful' means showing consideration for others."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f5",
+        "question": "What is the capital of Russia?",
+        "answer": "The capital of Russia is Moscow."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f6",
+        "question": "How can I improve my memory?",
+        "answer": "Engaging in mental exercises, practicing mindfulness, and getting enough sleep can help improve your memory."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f7",
+        "question": "What are some good ways to relax and de-stress?",
+        "answer": "Meditation, yoga, spending time in nature, and listening to calming music can help you relax and de-stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f8",
+        "question": "What is the meaning of the word 'intrigued'?",
+        "answer": "'Intrigued' means aroused by curiosity or interest."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0f9",
+        "question": "What is the capital of Mexico?",
+        "answer": "The capital of Mexico is Mexico City."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0fa",
+        "question": "How can I improve my time management skills?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help improve your time management skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0fb",
+        "question": "What are some good ways to stay motivated?",
+        "answer": "Setting realistic goals, celebrating milestones, and surrounding yourself with positive influences can help you stay motivated."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0fc",
+        "question": "What is the meaning of the word 'spontaneous'?",
+        "answer": "'Spontaneous' means happening or done without being planned or forced."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0fd",
+        "question": "What is the capital of Australia?",
+        "answer": "The capital of Australia is Canberra."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0fe",
+        "question": "How can I improve my social skills?",
+        "answer": "Being a good listener, practicing empathy, and being respectful of others can help improve your social skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b0ff",
+        "question": "What are some good ways to give back to the community?",
+        "answer": "Volunteering, donating to charities, and supporting local businesses are great ways to give back to the community."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b100",
+        "question": "What is the meaning of the word 'resilient'?",
+        "answer": "'Resilient' means able to withstand or recover quickly from difficult conditions."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b101",
+        "question": "What is the capital of Italy?",
+        "answer": "The capital of Italy is Rome."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b102",
+        "question": "How can I improve my creativity?",
+        "answer": "Engaging in activities that stimulate your imagination, exploring new experiences, and practicing regularly can help improve your creativity."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b103",
+        "question": "What are some good ways to learn a new language?",
+        "answer": "Immersion, language exchange programs, and online resources like apps and websites can help you learn a new language."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b104",
+        "question": "What is the meaning of the word 'unpretentious'?",
+        "answer": "'Unpretentious' means simple, modest, and not trying to impress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b105",
+        "question": "What is the capital of France?",
+        "answer": "The capital of France is Paris."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b106",
+        "question": "How can I improve my public speaking skills?",
+        "answer": "Practice, preparation, and focusing on your audience can help you improve your public speaking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b107",
+        "question": "What are some good ways to manage time effectively?",
+        "answer": "Prioritizing tasks, setting deadlines, and using a planner can help you manage time effectively."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b108",
+        "question": "What is the meaning of the word 'capricious'?",
+        "answer": "'Capricious' means impulsive and unpredictable."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b109",
+        "question": "What is the capital of Spain?",
+        "answer": "The capital of Spain is Madrid."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b10a",
+        "question": "How can I improve my financial literacy?",
+        "answer": "Educating yourself, creating a budget, and learning from your financial mistakes can help you improve your financial literacy."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b10b",
+        "question": "What are some good ways to manage stress?",
+        "answer": "Practicing mindfulness, meditation, and setting boundaries can help you manage stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b10c",
+        "question": "What is the meaning of the word 'enlightened'?",
+        "answer": "'Enlightened' means having a clear understanding or realization."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b10d",
+        "question": "What is the capital of Canada?",
+        "answer": "The capital of Canada is Ottawa."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b10e",
+        "question": "How can I improve my organizational skills?",
+        "answer": "Setting priorities, using tools like calendars and to-do lists, and managing your time effectively can help you improve your organizational skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b10f",
+        "question": "What are some good ways to maintain a healthy work-life balance?",
+        "answer": "Set boundaries, schedule regular breaks, and maintain a balance between work and personal life can help you maintain a healthy work-life balance."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b110",
+        "question": "What is the meaning of the word 'graceless'?",
+        "answer": "'Graceless' means lacking grace, refinement, or dignity."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b111",
+        "question": "What is the capital of Brazil?",
+        "answer": "The capital of Brazil is Brasilia."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b112",
+        "question": "How can I improve my negotiation skills?",
+        "answer": "Researching the situation, understanding your counterpart's needs, and being assertive yet respectful can help you improve your negotiation skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b113",
+        "question": "What are some good ways to manage work stress?",
+        "answer": "Taking breaks, delegating tasks, and practicing mindfulness can help you manage work stress."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b114",
+        "question": "What is the meaning of the word 'congenial'?",
+        "answer": "'Congenial' means well-suited or harmonious."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b115",
+        "question": "What is the capital of India?",
+        "answer": "The capital of India is New Delhi."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b116",
+        "question": "How can I improve my emotional intelligence?",
+        "answer": "Identifying and managing your emotions, empathizing with others, and using effective communication skills can help you improve your emotional intelligence."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b117",
+        "question": "What are some good ways to stay organized and efficient?",
+        "answer": "Prioritizing tasks, setting deadlines, and using tools like calendars and to-do lists can help you stay organized and efficient."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b118",
+        "question": "What is the meaning of the word 'commendable'?",
+        "answer": "'Commendable' means deserving of praise or approval."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b119",
+        "question": "What is the capital of Argentina?",
+        "answer": "The capital of Argentina is Buenos Aires."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b11a",
+        "question": "How can I improve my decision-making skills?",
+        "answer": "Evaluating options, considering the consequences, and consulting others can help you improve your decision-making skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b11b",
+        "question": "What are some good ways to maintain a healthy body?",
+        "answer": "Exercising regularly, eating a balanced diet, and getting enough sleep can help you maintain a healthy body."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b11c",
+        "question": "What is the meaning of the word 'astute'?",
+        "answer": "'Astute' means having keen perception and insight."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b11d",
+        "question": "What is the capital of China?",
+        "answer": "The capital of China is Beijing."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b11e",
+        "question": "How can I improve my critical thinking skills?",
+        "answer": "Identifying assumptions, evaluating evidence, and evaluating conclusions can help you improve your critical thinking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b11f",
+        "question": "What are some good ways to maintain a healthy mind?",
+        "answer": "Engaging in activities that stimulate your mind, practicing mindfulness, and staying informed can help you maintain a healthy mind."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b120",
+        "question": "What is the meaning of the word 'courageous'?",
+        "answer": "'Courageous' means having the strength and confidence to face difficulties and challenges."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b121",
+        "question": "What is the capital of South Africa?",
+        "answer": "The capital of South Africa is Pretoria."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b122",
+        "question": "How can I improve my assertiveness skills?",
+        "answer": "Recognizing your feelings and needs, setting boundaries, and being clear and respectful can help you improve your assertiveness skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b123",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b124",
+        "question": "What is the meaning of the word 'discerning'?",
+        "answer": "'Discerning' means having good judgment and understanding."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b125",
+        "question": "What is the capital of Japan?",
+        "answer": "The capital of Japan is Tokyo."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b126",
+        "question": "How can I improve my leadership skills?",
+        "answer": "Developing a clear vision, communicating effectively, and building trust can help you improve your leadership skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b127",
+        "question": "What are some good ways to maintain a healthy work-life balance?",
+        "answer": "Setting boundaries, scheduling regular breaks, and maintaining a balance between work and personal life can help you maintain a healthy work-life balance."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b128",
+        "question": "What is the meaning of the word 'erudite'?",
+        "answer": "'Erudite' means having a wide and deep knowledge of learning and scholarship."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b129",
+        "question": "What is the capital of Australia?",
+        "answer": "The capital of Australia is Canberra."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b12a",
+        "question": "How can I improve my time management skills?",
+        "answer": "Prioritizing tasks, setting deadlines, and using tools like calendars and to-do lists can help you improve your time management skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b12b",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b12c",
+        "question": "What is the meaning of the word 'gregarious'?",
+        "answer": "'Gregarious' means sociable, outgoing, and friendly."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b12d",
+        "question": "What is the capital of Egypt?",
+        "answer": "The capital of Egypt is Cairo."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b12e",
+        "question": "How can I improve my networking skills?",
+        "answer": "Building relationships, attending events, and following up with contacts can help you improve your networking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b12f",
+        "question": "What are some good ways to maintain a healthy work-life balance?",
+        "answer": "Setting boundaries, scheduling regular breaks, and maintaining a balance between work and personal life can help you maintain a healthy work-life balance."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b130",
+        "question": "What is the meaning of the word 'humble'?",
+        "answer": "'Humble' means having a modest or low estimate of one's importance."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b131",
+        "question": "What is the capital of Iran?",
+        "answer": "The capital of Iran is Tehran."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b132",
+        "question": "How can I improve my conflict resolution skills?",
+        "answer": "Identifying the source of the conflict, listening actively, and finding a mutually beneficial solution can help you improve your conflict resolution skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b133",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b134",
+        "question": "What is the meaning of the word 'impartial'?",
+        "answer": "'Impartial' means not favoring one side over another."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b135",
+        "question": "What is the capital of Iraq?",
+        "answer": "The capital of Iraq is Baghdad."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b136",
+        "question": "How can I improve my teamwork skills?",
+        "answer": "Communicating effectively, collaborating on tasks, and building trust can help you improve your teamwork skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b137",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b138",
+        "question": "What is the meaning of the word 'judicious'?",
+        "answer": "'Judicious' means having good judgment and wisdom."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b139",
+        "question": "What is the capital of Israel?",
+        "answer": "The capital of Israel is Jerusalem."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b13a",
+        "question": "How can I improve my problem-solving skills?",
+        "answer": "Analyzing the problem, generating solutions, and evaluating the results can help you improve your problem-solving skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b13b",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b13c",
+        "question": "What is the meaning of the word 'keen'?",
+        "answer": "'Keen' means having a strong desire or interest."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b13d",
+        "question": "What is the capital of Jordan?",
+        "answer": "The capital of Jordan is Amman."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b13e",
+        "question": "How can I improve my adaptability skills?",
+        "answer": "Being open-minded, flexible, and willing to learn can help you improve your adaptability skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b13f",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b140",
+        "question": "What is the meaning of the word 'loquacious'?",
+        "answer": "'Loquacious' means talkative or fond of talking."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b141",
+        "question": "What is the capital of Kuwait?",
+        "answer": "The capital of Kuwait is Kuwait City."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b142",
+        "question": "How can I improve my creativity skills?",
+        "answer": "Exploring new ideas, taking risks, and practicing regularly can help you improve your creativity skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b143",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b144",
+        "question": "What is the meaning of the word 'meticulous'?",
+        "answer": "'Meticulous' means showing great attention to detail."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b145",
+        "question": "What is the capital of Lebanon?",
+        "answer": "The capital of Lebanon is Beirut."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b146",
+        "question": "How can I improve my networking skills?",
+        "answer": "Building relationships, attending events, and following up with contacts can help you improve your networking skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b147",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b148",
+        "question": "What is the meaning of the word 'nurturing'?",
+        "answer": "'Nurturing' means caring for and encouraging the growth or development of someone or something."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b149",
+        "question": "What is the capital of Libya?",
+        "answer": "The capital of Libya is Tripoli."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b14a",
+        "question": "How can I improve my communication skills?",
+        "answer": "Listening actively, speaking clearly, and using appropriate body language can help you improve your communication skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b14b",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b14c",
+        "question": "What is the meaning of the word 'observant'?",
+        "answer": "'Observant' means paying attention to detail or being aware of what is happening around you."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b14d",
+        "question": "What is the capital of Morocco?",
+        "answer": "The capital of Morocco is Rabat."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b14e",
+        "question": "How can I improve my teamwork skills?",
+        "answer": "Communicating effectively, collaborating on tasks, and building trust can help you improve your teamwork skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b14f",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b150",
+        "question": "What is the meaning of the word 'perspicacious'?",
+        "answer": "'Perspicacious' means having a quick and accurate understanding of things."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b151",
+        "question": "What is the capital of Oman?",
+        "answer": "The capital of Oman is Muscat."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b152",
+        "question": "How can I improve my adaptability skills?",
+        "answer": "Being open-minded, flexible, and willing to learn can help you improve your adaptability skills."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b153",
+        "question": "What are some good ways to maintain a healthy work environment?",
+        "answer": "Promoting open communication, recognizing and rewarding good work, and providing opportunities for growth and development can help you maintain a healthy work environment."
+    },
+    {
+        "_id": "66d053be68b1c87862f5b153",
+        "question": "good bye see you later",
+        "answer": "If you have any queries feel free to ask. Have a great day!"
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec2",
+        "question": "Can I know what I need to upload for AP EAMCET Counseling (AP EAPCET),Andhra Pradesh?",
+        "answer": "For AP EAMCET Counseling, you need to upload documents such as your rank card, hall ticket, SSC/10th marks memo, intermediate marks memo, caste certificate (if applicable), income certificate, and residential certificate. Ensure all documents are in the required format before uploading."
+    },
+    {
+        "_id": "77e064cf79c2d98973g6bdf3",
+        "question": "How can I check my seat allotment status for AP EAMCET Counseling, Andhra Paradesh?",
+        "answer": "You can check your seat allotment status on the official AP EAMCET counseling website by logging in with your credentials and viewing the seat allotment section. You will also receive a message on your registered mobile number."
+    },
+    {
+        "_id": "88f075d08ad3ea9a84h7cef4",
+        "question": "What is the process for document verification in AP EAMCET Counseling, Andhra Pradesh?",
+        "answer": "During AP EAMCET Counseling, document verification is usually done at designated help centers. You will be called based on your rank, and you must carry original documents along with photocopies for verification."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec2",
+        "question": "Can I know what I need to upload for AP EAMCET Counseling (AP EAPCET), Andhra Pradesh?",
+        "answer": "For AP EAMCET Counseling, you need to upload documents such as your rank card, hall ticket, SSC/10th marks memo, intermediate marks memo, caste certificate (if applicable), income certificate, and residential certificate. Ensure all documents are in the required format before uploading."
+    },
+    {
+        "_id": "77e064cf79c2d98973g6bdf3",
+        "question": "How can I check my seat allotment status for AP EAMCET Counseling, Andhra Pradesh?",
+        "answer": "You can check your seat allotment status on the official AP EAMCET counseling website by logging in with your credentials and viewing the seat allotment section. You will also receive a message on your registered mobile number."
+    },
+    {
+        "_id": "88f075d08ad3ea9a84h7cef4",
+        "question": "What is the process for document verification in AP EAMCET Counseling, Andhra Pradesh?",
+        "answer": "During AP EAMCET Counseling, document verification is usually done at designated help centers. You will be called based on your rank, and you must carry original documents along with photocopies for verification."
+    },
+    {
+        "_id": "99g086e19be4fbabc95i8df5",
+        "question": "Can I know what I need to upload for TS EAMCET Counseling (Telangana)?",
+        "answer": "For TS EAMCET Counseling, you need to upload documents like the rank card, hall ticket, SSC/10th marks memo, intermediate marks memo, caste certificate (if applicable), income certificate, and residential certificate. Ensure all documents are in the required format before uploading."
+    },
+    {
+        "_id": "aa7077f2ac5fd10cd1069fg6",
+        "question": "How can I check my seat allotment status for TS EAMCET Counseling, Telangana?",
+        "answer": "You can check your seat allotment status on the official TS EAMCET counseling website by logging in with your credentials and viewing the seat allotment section. A notification will also be sent to your registered mobile number."
+    },
+    {
+        "_id": "bb818803bd6ge21de217ahg7",
+        "question": "What is the process for document verification in TS EAMCET Counseling, Telangana?",
+        "answer": "During TS EAMCET Counseling, document verification is done at specified help centers. You will be called based on your rank, and you must bring original documents along with photocopies for verification."
+    },
+    {
+        "_id": "cc929914ce7hf32ef328big8",
+        "question": "Can I know what I need to upload for KEAM Counseling (Kerala)?",
+        "answer": "For KEAM Counseling, you need to upload documents such as the KEAM admit card, KEAM scorecard, SSLC/10th marks memo, higher secondary mark sheet, transfer certificate, income certificate (if applicable), and community certificate. Check the official website for format requirements."
+    },
+    {
+        "_id": "dda03025df8ig43fg439cjh9",
+        "question": "How can I check my seat allotment status for KEAM Counseling, Kerala?",
+        "answer": "To check your seat allotment status for KEAM Counseling, visit the official KEAM website and log in with your credentials to view the seat allotment result. You will also be notified via SMS."
+    },
+    {
+        "_id": "ee141136eg9jh54gh54adik0",
+        "question": "What is the process for document verification in KEAM Counseling, Kerala?",
+        "answer": "KEAM Counseling requires document verification at designated centers. You must carry original documents and photocopies for verification based on your rank in the merit list."
+    },
+    {
+        "_id": "ff252247fh0kj65hi65bklm1",
+        "question": "Can I know what I need to upload for MHT CET Counseling (Maharashtra)?",
+        "answer": "For MHT CET Counseling, you need to upload documents such as the MHT CET scorecard, CET hall ticket, SSC/10th and HSC/12th marks memo, domicile certificate, category certificate (if applicable), and income certificate. All documents should be in the required format."
+    },
+    {
+        "_id": "gg363358gi1lk76ij76cmnl2",
+        "question": "How can I check my seat allotment status for MHT CET Counseling, Maharashtra?",
+        "answer": "To check your seat allotment status for MHT CET Counseling, log in to the official MHT CET website using your credentials and view the seat allotment result. You will also be notified on your registered mobile number."
+    },
+    {
+        "_id": "hh474469hj2ml87kl87dnmo3",
+        "question": "What is the process for document verification in MHT CET Counseling, Maharashtra?",
+        "answer": "In MHT CET Counseling, document verification is done at authorized centers. You need to carry both original documents and photocopies for verification based on your rank."
+    },
+    {
+        "_id": "66d053be68b1c87862f5aec2",
+        "question": "Can I know what I need to upload for AP EAMCET Andhra Pradesh Counseling (AP EAPCET)?",
+        "answer": "For AP EAMCET Counseling, you need to upload documents such as your rank card, hall ticket, SSC/10th marks memo, intermediate marks memo, caste certificate (if applicable), income certificate, and residential certificate. Ensure all documents are in the required format before uploading."
+    },
+    {
+        "_id": "77e064cf79c2d98973g6bdf3",
+        "question": "How can I check my seat allotment status for AP EAMCET Andhra Pradesh Counseling?",
+        "answer": "You can check your seat allotment status on the official AP EAMCET counseling website by logging in with your credentials and viewing the seat allotment section. You will also receive a message on your registered mobile number."
+    },
+    {
+        "_id": "88f075d08ad3ea9a84h7cef4",
+        "question": "What is the process for document verification in AP EAMCET Andhra Pradesh Counseling?",
+        "answer": "During AP EAMCET Counseling, document verification is usually done at designated help centers. You will be called based on your rank, and you must carry original documents along with photocopies for verification."
+    },
+    {
+        "_id": "99g086e19be4fbabc95i8df5",
+        "question": "Can I know what I need to upload for TS EAMCET Telangana Counseling?",
+        "answer": "For TS EAMCET Counseling, you need to upload documents like the rank card, hall ticket, SSC/10th marks memo, intermediate marks memo, caste certificate (if applicable), income certificate, and residential certificate. Ensure all documents are in the required format before uploading."
+    },
+    {
+        "_id": "aa7077f2ac5fd10cd1069fg6",
+        "question": "How can I check my seat allotment status for TS EAMCET Telangana Counseling?",
+        "answer": "You can check your seat allotment status on the official TS EAMCET counseling website by logging in with your credentials and viewing the seat allotment section. A notification will also be sent to your registered mobile number."
+    },
+    {
+        "_id": "bb818803bd6ge21de217ahg7",
+        "question": "What is the process for document verification in TS EAMCET Telangana Counseling?",
+        "answer": "During TS EAMCET Counseling, document verification is done at specified help centers. You will be called based on your rank, and you must bring original documents along with photocopies for verification."
+    },
+    {
+        "_id": "cc929914ce7hf32ef328big8",
+        "question": "Can I know what I need to upload for KEAM Kerala Counseling?",
+        "answer": "For KEAM Counseling, you need to upload documents such as the KEAM admit card, KEAM scorecard, SSLC/10th marks memo, higher secondary mark sheet, transfer certificate, income certificate (if applicable), and community certificate. Check the official website for format requirements."
+    },
+    {
+        "_id": "dda03025df8ig43fg439cjh9",
+        "question": "How can I check my seat allotment status for KEAM Kerala Counseling?",
+        "answer": "To check your seat allotment status for KEAM Counseling, visit the official KEAM website and log in with your credentials to view the seat allotment result. You will also be notified via SMS."
+    },
+    {
+        "_id": "ee141136eg9jh54gh54adik0",
+        "question": "What is the process for document verification in KEAM Kerala Counseling?",
+        "answer": "KEAM Counseling requires document verification at designated centers. You must carry original documents and photocopies for verification based on your rank in the merit list."
+    },
+    {
+        "_id": "ff252247fh0kj65hi65bklm1",
+        "question": "Can I know what I need to upload for MHT CET Maharashtra Counseling?",
+        "answer": "For MHT CET Counseling, you need to upload documents such as the MHT CET scorecard, CET hall ticket, SSC/10th and HSC/12th marks memo, domicile certificate, category certificate (if applicable), and income certificate. All documents should be in the required format."
+    }
+]

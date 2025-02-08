@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovic Spark - Illuminate Your Career Path</title>
+    <link rel="icon" href="/static/img/logo.jpg" type="image/png"> <!-- Favicon -->
+    <link rel="stylesheet" href="static/css/style.css"> <!-- Updated CSS file link -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <script defer src="static/js/script.js"></script> <!-- JS file link -->
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo-container">
+                <img src="/static/img/logo.jpg" alt="Innovic Spark Logo" class="logo-img">
+                <span class="logo-text">Innovic Spark</span> <!-- Text next to the logo -->
+            </div>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="#home">HOME</a></li>
+                    <li><a href="/chat">CHATBOT</a></li>
+                    <li><a href="#about">ABOUT</a></li>
+                    <li><a href="/course">COURSES</a></li>
+                    <li><a href="#contact">CONTACT</a></li>
+
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <div class="hero-section" id="home">
+            <div class="hero-content">
+                <h1>Illuminate Your Career Path with Innovic Spark</h1>
+                <p>Your future is bright. Let us guide you with expert advice and tailored resources.</p>
+                <a href="/aptitute" class="btn-primary">Let's Find Yourself</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Section -->
+    <section class="main-content" id="CHATBOT">
+        <div class="text-content">
+            <h2>Chat with Us</h2>
+            <p>Explore remote-friendly, flexible opportunities and join our mission to make work life more enjoyable, more pleasant, and more productive.</p>
+            <a href="/chat" class="btn-careers">Start Chat</a>
+            <p><a href="/course" class="link">Looking for Courses?</a></p>
+        </div>
+        <div class="image-content">
+            <img src="/static/img/th.jpeg" alt="Career Counseling Image" class="hero-image">
+        </div>
+    </section>
+    
+    <!-- About Us Section -->
+    <section class="about-us" id="about">
+        <div class="container">
+            <h2>About Us</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <h3>Who We Are</h3>
+                    <p>At Innovic Spark, we are dedicated to guiding you towards a successful career path. Our team of experts offers personalized advice and tailored resources to help you achieve your career goals.</p>
+                    <p>With a focus on providing top-notch courses and services, we are committed to illuminating your career journey and supporting your professional growth.</p>
+                </div>
+                <div class="about-image">
+                    <img src="/static/img/1600356731_career-counselling.jpg" alt="About Us" class="about-img">
+                </div>
+            </div>
+        </div>
+    </section>
+
+ <!-- Contact Section -->
+ <section class="contact" id="contact">
+    <div class="contact-container">
+        <div class="contact-image">
+            <h2>Contact Us</h2>
+            <p>We're here to help! Whether you have a question, need assistance, or simply want to share your thoughts, don’t hesitate to reach out. Our team is ready to assist you with any queries or concerns you may have. Just fill out the form below, and we’ll get back to you as soon as possible. We look forward to hearing from you!</p>
+        </div>
+        <div class="contact-form-container">
+            <form action="/submit_contact_form" method="post">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                </div>
+                
+                <button type="submit" class="btn-primary">Send Message</button>
+            </form>
+        </div>
+    </div>
+</section>
+
+<!-- Footer Section (optional) -->
+<footer class="footer">
+    <div class="container">
+        <p>&copy; 2024 Innovic Spark. All rights reserved.</p>
+    </div>
+</footer>
+</body>
+</html>

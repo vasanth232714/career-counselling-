@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Guidance Results</title>
+    <style>
+        body {
+            background: url('https://www.cdc.gov/nchs/images/nvss/modernization/970x408-mod-goals.png?_=83148') no-repeat center center fixed;
+            background-size: 2500px;
+            font-family: 'Comic Sans MS', cursive, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            
+        }
+
+        .header {
+            padding: 2px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo-img {
+            width: 60px;
+            margin-right: 10px;
+            border-radius: 50%;
+        }
+
+        .logo-text {
+            font-size: 32px;
+            font-weight: bold;
+            color: #daf4f9;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            margin-left: 20px;
+        }
+
+        .nav-links ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+        }
+
+        .nav-links ul li {
+            margin-right: 20px;
+        }
+
+        .nav-links ul li a {
+            text-decoration: none;
+            font-weight: bold;
+            color: #7ecdfa;
+            font-size: 18px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        }
+
+        .nav-links ul li a:hover {
+            color: #a1cdf4;
+        }
+
+        .container {
+            align-self: center;
+            background: rgb(168, 216, 240);
+            border-radius: 12px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+            padding: 30px;
+            width: 900px;
+            margin-top: 50px;
+            text-align: center;
+
+        }
+
+        h1 {
+            color: #4e4f9b;
+            font-size: 32px;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(109, 191, 238, 0.6);
+        }
+
+        h2 {
+            color: #ececec;
+            font-size: 24px;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 20px;
+            color: #333;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 18px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        li:hover {
+            background-color: #aff2f7;
+            transform: scale(1.02);
+            transition: all 0.3s ease;
+        }
+
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #9cbcf3;
+            font-size: 14px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin-top: 20px;
+            }
+
+            h1 {
+                font-size: 28px;
+            }
+
+            h2 {
+                font-size: 20px;
+            }
+
+            p, li {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo-container">
+                <img src="/static/img/logo.jpg" alt="Innovic Spark Logo" class="logo-img">
+                <span class="logo-text">Innovic Spark</span>
+            </div>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="/">HOME</a></li>
+                    <li><a href="/chat">CHATBOT</a></li>
+                    <li><a href="/">ABOUT</a></li>
+                    <li><a href="/course">COURSES</a></li>
+                    <li><a href="/">CONTACT</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        <h1>Career Prediction Results</h1>
+        
+        {% if best_match %}
+        <section>
+            <h2>Suggested Career Domain</h2>
+            <p>{{ best_match }}</p>
+        </section>
+        {% else %}
+        <section>
+            <h2>Closest Match</h2>
+            <p>Although no exact match was found, the closest domain based on your responses is:</p>
+            <p>{{ closest_match_domain }} ({{ closest_match_distance }}% match)</p>
+             <p>You may also explore other groups for better alignment with your interests.</p>
+        </section>
+        {% endif %}
+
+        <section>
+            <h2>Exact Matches</h2>
+            {% if matched_domains.exact %}
+            <ul>
+                {% for domain, percentage in matched_domains.exact %}
+                <li>{{ domain }} ({{ percentage }}% match)</li>
+                {% endfor %}
+            </ul>
+            {% else %}
+            <p>No exact matches found.</p>
+            {% endif %}
+        </section>
+
+        <section>
+            <h2>Close Matches</h2>
+            {% if matched_domains.close %}
+            <ul>
+                {% for domain, percentage in matched_domains.close %}
+                <li>{{ domain }} ({{ percentage }}% match)</li>
+                {% endfor %}
+            </ul>
+            {% else %}
+            <p>No close matches found.</p>
+            {% endif %}
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Innovic Spark. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
